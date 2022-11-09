@@ -1,0 +1,7994 @@
+[
+    {
+        "IV": "0.0024",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.1237",
+        "Variables": "v000",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0009",
+        "Nan Count": "65586",
+        "Nan Rate": "0.8923",
+        "PSI": "0.0584",
+        "Variables": "v001",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.002",
+        "Nan Count": "71528",
+        "Nan Rate": "0.9732",
+        "PSI": "0.0142",
+        "Variables": "v002",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0249",
+        "Nan Count": "24464",
+        "Nan Rate": "0.3328",
+        "PSI": "0.3668",
+        "Variables": "v003",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0016",
+        "Nan Count": "44071",
+        "Nan Rate": "0.5996",
+        "PSI": "0.2371",
+        "Variables": "v004",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0",
+        "Nan Count": "68164",
+        "Nan Rate": "0.9274",
+        "PSI": "0.1744",
+        "Variables": "v005",
+        "WOE_shape": "Up"
+    },
+    {
+        "IV": "0.0297",
+        "Nan Count": "13680",
+        "Nan Rate": "0.1861",
+        "PSI": "0.447",
+        "Variables": "v006",
+        "WOE_shape": "Up"
+    },
+    {
+        "IV": "0.0222",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.4418",
+        "Variables": "v007",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0183",
+        "Nan Count": "18417",
+        "Nan Rate": "0.2506",
+        "PSI": "0.4186",
+        "Variables": "v008",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0038",
+        "Nan Count": "57579",
+        "Nan Rate": "0.7834",
+        "PSI": "0.1295",
+        "Variables": "v009",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0028",
+        "Nan Count": "44071",
+        "Nan Rate": "0.5996",
+        "PSI": "0.237",
+        "Variables": "v010",
+        "WOE_shape": "Up"
+    },
+    {
+        "IV": "0.0042",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.2141",
+        "Variables": "v011",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0056",
+        "Nan Count": "39822",
+        "Nan Rate": "0.5418",
+        "PSI": "0.1913",
+        "Variables": "v012",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.003",
+        "Nan Count": "56940",
+        "Nan Rate": "0.7747",
+        "PSI": "0.1353",
+        "Variables": "v013",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0438",
+        "Nan Count": "13680",
+        "Nan Rate": "0.1861",
+        "PSI": "0.4475",
+        "Variables": "v014",
+        "WOE_shape": "Up"
+    },
+    {
+        "IV": "0.0062",
+        "Nan Count": "20511",
+        "Nan Rate": "0.2791",
+        "PSI": "0.4127",
+        "Variables": "v015",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0017",
+        "Nan Count": "68488",
+        "Nan Rate": "0.9318",
+        "PSI": "0.035",
+        "Variables": "v016",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0067",
+        "Nan Count": "14168",
+        "Nan Rate": "0.1928",
+        "PSI": "0.1785",
+        "Variables": "v017",
+        "WOE_shape": "Up"
+    },
+    {
+        "IV": "0.0409",
+        "Nan Count": "13724",
+        "Nan Rate": "0.1867",
+        "PSI": "0.4451",
+        "Variables": "v018",
+        "WOE_shape": "Up"
+    },
+    {
+        "IV": "0.0077",
+        "Nan Count": "65572",
+        "Nan Rate": "0.8921",
+        "PSI": "0.0548",
+        "Variables": "v019",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0122",
+        "Nan Count": "21109",
+        "Nan Rate": "0.2872",
+        "PSI": "0.3964",
+        "Variables": "v020",
+        "WOE_shape": "Down"
+    },
+    {
+        "IV": "0.0178",
+        "Nan Count": "13680",
+        "Nan Rate": "0.1861",
+        "PSI": "0.4474",
+        "Variables": "v021",
+        "WOE_shape": "Down"
+    },
+    {
+        "IV": "0.0064",
+        "Nan Count": "52566",
+        "Nan Rate": "0.7152",
+        "PSI": "0.1679",
+        "Variables": "v022",
+        "WOE_shape": "Up"
+    },
+    {
+        "IV": "0.0116",
+        "Nan Count": "27504",
+        "Nan Rate": "0.3742",
+        "PSI": "0.3498",
+        "Variables": "v023",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.001",
+        "Nan Count": "68164",
+        "Nan Rate": "0.9274",
+        "PSI": "0.1927",
+        "Variables": "v024",
+        "WOE_shape": "Up"
+    },
+    {
+        "IV": "0.0222",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.4418",
+        "Variables": "v025",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0175",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5651",
+        "Variables": "v026",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0093",
+        "Nan Count": "19791",
+        "Nan Rate": "0.2693",
+        "PSI": "0.4092",
+        "Variables": "v027",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0047",
+        "Nan Count": "25677",
+        "Nan Rate": "0.3493",
+        "PSI": "0.3715",
+        "Variables": "v028",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0326",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5651",
+        "Variables": "v029",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0169",
+        "Nan Count": "15323",
+        "Nan Rate": "0.2085",
+        "PSI": "0.2437",
+        "Variables": "v030",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0014",
+        "Nan Count": "71528",
+        "Nan Rate": "0.9732",
+        "PSI": "0.0154",
+        "Variables": "v031",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0149",
+        "Nan Count": "28980",
+        "Nan Rate": "0.3943",
+        "PSI": "0.3328",
+        "Variables": "v032",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0123",
+        "Nan Count": "19791",
+        "Nan Rate": "0.2693",
+        "PSI": "0.158",
+        "Variables": "v033",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0007",
+        "Nan Count": "71528",
+        "Nan Rate": "0.9732",
+        "PSI": "0.0158",
+        "Variables": "v034",
+        "WOE_shape": "Up"
+    },
+    {
+        "IV": "0.0098",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.565",
+        "Variables": "v035",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.01",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.1224",
+        "Variables": "v036",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0137",
+        "Nan Count": "63011",
+        "Nan Rate": "0.8573",
+        "PSI": "0.0732",
+        "Variables": "v037",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0037",
+        "Nan Count": "27504",
+        "Nan Rate": "0.3742",
+        "PSI": "0.3504",
+        "Variables": "v038",
+        "WOE_shape": "Down"
+    },
+    {
+        "IV": "0.0034",
+        "Nan Count": "58543",
+        "Nan Rate": "0.7965",
+        "PSI": "0.1212",
+        "Variables": "v039",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0",
+        "Nan Count": "61842",
+        "Nan Rate": "0.8414",
+        "PSI": "0.098",
+        "Variables": "v040",
+        "WOE_shape": "Down"
+    },
+    {
+        "IV": "0.0132",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5653",
+        "Variables": "v041",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0025",
+        "Nan Count": "56940",
+        "Nan Rate": "0.7747",
+        "PSI": "0.1087",
+        "Variables": "v042",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0147",
+        "Nan Count": "64919",
+        "Nan Rate": "0.8833",
+        "PSI": "0.0594",
+        "Variables": "v043",
+        "WOE_shape": "Down"
+    },
+    {
+        "IV": "0.0049",
+        "Nan Count": "68488",
+        "Nan Rate": "0.9318",
+        "PSI": "0.0346",
+        "Variables": "v044",
+        "WOE_shape": "Up"
+    },
+    {
+        "IV": "0.0025",
+        "Nan Count": "59947",
+        "Nan Rate": "0.8156",
+        "PSI": "0.0993",
+        "Variables": "v045",
+        "WOE_shape": "Up"
+    },
+    {
+        "IV": "0.0079",
+        "Nan Count": "52592",
+        "Nan Rate": "0.7155",
+        "PSI": "0.1683",
+        "Variables": "v046",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0046",
+        "Nan Count": "69496",
+        "Nan Rate": "0.9455",
+        "PSI": "0.0303",
+        "Variables": "v047",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0104",
+        "Nan Count": "16997",
+        "Nan Rate": "0.2313",
+        "PSI": "0.1386",
+        "Variables": "v048",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0089",
+        "Nan Count": "64285",
+        "Nan Rate": "0.8746",
+        "PSI": "0.0714",
+        "Variables": "v049",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0059",
+        "Nan Count": "13923",
+        "Nan Rate": "0.1894",
+        "PSI": "0.4608",
+        "Variables": "v050",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0011",
+        "Nan Count": "71528",
+        "Nan Rate": "0.9732",
+        "PSI": "0.0138",
+        "Variables": "v051",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0007",
+        "Nan Count": "59906",
+        "Nan Rate": "0.815",
+        "PSI": "0.1113",
+        "Variables": "v052",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0088",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.1832",
+        "Variables": "v053",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0033",
+        "Nan Count": "62568",
+        "Nan Rate": "0.8513",
+        "PSI": "0.1055",
+        "Variables": "v054",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0206",
+        "Nan Count": "13680",
+        "Nan Rate": "0.1861",
+        "PSI": "0.4469",
+        "Variables": "v055",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0002",
+        "Nan Count": "56940",
+        "Nan Rate": "0.7747",
+        "PSI": "0.14",
+        "Variables": "v056",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0032",
+        "Nan Count": "27504",
+        "Nan Rate": "0.3742",
+        "PSI": "0.3506",
+        "Variables": "v057",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0005",
+        "Nan Count": "32710",
+        "Nan Rate": "0.445",
+        "PSI": "0.3318",
+        "Variables": "v058",
+        "WOE_shape": "Up"
+    },
+    {
+        "IV": "0.0018",
+        "Nan Count": "39463",
+        "Nan Rate": "0.5369",
+        "PSI": "0.2759",
+        "Variables": "v059",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0016",
+        "Nan Count": "65816",
+        "Nan Rate": "0.8955",
+        "PSI": "0.0552",
+        "Variables": "v060",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0355",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5649",
+        "Variables": "v061",
+        "WOE_shape": "Up"
+    },
+    {
+        "IV": "0.0803",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5651",
+        "Variables": "v062",
+        "WOE_shape": "Up"
+    },
+    {
+        "IV": "0.0222",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.4418",
+        "Variables": "v063",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0212",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5652",
+        "Variables": "v064",
+        "WOE_shape": "Down"
+    },
+    {
+        "IV": "0.0045",
+        "Nan Count": "61824",
+        "Nan Rate": "0.8411",
+        "PSI": "0.1302",
+        "Variables": "v065",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0145",
+        "Nan Count": "15323",
+        "Nan Rate": "0.2085",
+        "PSI": "0.132",
+        "Variables": "v066",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0035",
+        "Nan Count": "72710",
+        "Nan Rate": "0.9893",
+        "PSI": "0.0026",
+        "Variables": "v067",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0079",
+        "Nan Count": "24365",
+        "Nan Rate": "0.3315",
+        "PSI": "0.382",
+        "Variables": "v068",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0076",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5646",
+        "Variables": "v069",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0029",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5651",
+        "Variables": "v070",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0056",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.2041",
+        "Variables": "v071",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0329",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.4412",
+        "Variables": "v072",
+        "WOE_shape": "Up"
+    },
+    {
+        "IV": "0.0185",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5646",
+        "Variables": "v073",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.001",
+        "Nan Count": "62610",
+        "Nan Rate": "0.8518",
+        "PSI": "0.0869",
+        "Variables": "v074",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0041",
+        "Nan Count": "56665",
+        "Nan Rate": "0.771",
+        "PSI": "0.13",
+        "Variables": "v075",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0292",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5649",
+        "Variables": "v076",
+        "WOE_shape": "Down"
+    },
+    {
+        "IV": "0.0066",
+        "Nan Count": "16997",
+        "Nan Rate": "0.2313",
+        "PSI": "0.1669",
+        "Variables": "v077",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0015",
+        "Nan Count": "52566",
+        "Nan Rate": "0.7152",
+        "PSI": "0.1681",
+        "Variables": "v078",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0682",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5649",
+        "Variables": "v079",
+        "WOE_shape": "Up"
+    },
+    {
+        "IV": "0.0058",
+        "Nan Count": "63435",
+        "Nan Rate": "0.8631",
+        "PSI": "0.0786",
+        "Variables": "v080",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0099",
+        "Nan Count": "39822",
+        "Nan Rate": "0.5418",
+        "PSI": "0.1827",
+        "Variables": "v081",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0064",
+        "Nan Count": "65552",
+        "Nan Rate": "0.8919",
+        "PSI": "0.0548",
+        "Variables": "v082",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0371",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.564",
+        "Variables": "v083",
+        "WOE_shape": "Up"
+    },
+    {
+        "IV": "0.0138",
+        "Nan Count": "60053",
+        "Nan Rate": "0.817",
+        "PSI": "0.1014",
+        "Variables": "v084",
+        "WOE_shape": "Up"
+    },
+    {
+        "IV": "0.0361",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.4407",
+        "Variables": "v085",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0686",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.565",
+        "Variables": "v086",
+        "WOE_shape": "Down"
+    },
+    {
+        "IV": "0.0002",
+        "Nan Count": "57461",
+        "Nan Rate": "0.7818",
+        "PSI": "0.1312",
+        "Variables": "v087",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0136",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5654",
+        "Variables": "v088",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0154",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5636",
+        "Variables": "v089",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0022",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5647",
+        "Variables": "v090",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.003",
+        "Nan Count": "24365",
+        "Nan Rate": "0.3315",
+        "PSI": "0.3815",
+        "Variables": "v091",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0073",
+        "Nan Count": "68628",
+        "Nan Rate": "0.9337",
+        "PSI": "0.0336",
+        "Variables": "v092",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.005",
+        "Nan Count": "67185",
+        "Nan Rate": "0.9141",
+        "PSI": "0.212",
+        "Variables": "v093",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0116",
+        "Nan Count": "13923",
+        "Nan Rate": "0.1894",
+        "PSI": "0.4599",
+        "Variables": "v094",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.001",
+        "Nan Count": "25593",
+        "Nan Rate": "0.3482",
+        "PSI": "0.3897",
+        "Variables": "v095",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0077",
+        "Nan Count": "16997",
+        "Nan Rate": "0.2313",
+        "PSI": "0.2297",
+        "Variables": "v096",
+        "WOE_shape": "Down"
+    },
+    {
+        "IV": "0.0053",
+        "Nan Count": "51606",
+        "Nan Rate": "0.7021",
+        "PSI": "0.1722",
+        "Variables": "v097",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0087",
+        "Nan Count": "16997",
+        "Nan Rate": "0.2313",
+        "PSI": "0.4391",
+        "Variables": "v098",
+        "WOE_shape": "Down"
+    },
+    {
+        "IV": "0.0037",
+        "Nan Count": "52566",
+        "Nan Rate": "0.7152",
+        "PSI": "0.2473",
+        "Variables": "v099",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.007",
+        "Nan Count": "60491",
+        "Nan Rate": "0.823",
+        "PSI": "0.0945",
+        "Variables": "v100",
+        "WOE_shape": "Up"
+    },
+    {
+        "IV": "0.0027",
+        "Nan Count": "59947",
+        "Nan Rate": "0.8156",
+        "PSI": "0.2389",
+        "Variables": "v101",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0025",
+        "Nan Count": "52491",
+        "Nan Rate": "0.7142",
+        "PSI": "0.1795",
+        "Variables": "v102",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0157",
+        "Nan Count": "13108",
+        "Nan Rate": "0.1783",
+        "PSI": "0.4647",
+        "Variables": "v103",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0022",
+        "Nan Count": "61842",
+        "Nan Rate": "0.8414",
+        "PSI": "0.0959",
+        "Variables": "v104",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0449",
+        "Nan Count": "13680",
+        "Nan Rate": "0.1861",
+        "PSI": "0.4474",
+        "Variables": "v105",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0086",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5654",
+        "Variables": "v106",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0059",
+        "Nan Count": "68503",
+        "Nan Rate": "0.932",
+        "PSI": "0.0341",
+        "Variables": "v107",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0324",
+        "Nan Count": "33230",
+        "Nan Rate": "0.4521",
+        "PSI": "0.3198",
+        "Variables": "v108",
+        "WOE_shape": "Up"
+    },
+    {
+        "IV": "0.0222",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.4418",
+        "Variables": "v109",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0184",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.1957",
+        "Variables": "v110",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0343",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.565",
+        "Variables": "v111",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0042",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5645",
+        "Variables": "v112",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0065",
+        "Nan Count": "65597",
+        "Nan Rate": "0.8925",
+        "PSI": "0.0576",
+        "Variables": "v113",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0021",
+        "Nan Count": "55978",
+        "Nan Rate": "0.7616",
+        "PSI": "0.1442",
+        "Variables": "v114",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0222",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.4418",
+        "Variables": "v115",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0141",
+        "Nan Count": "13680",
+        "Nan Rate": "0.1861",
+        "PSI": "0.4473",
+        "Variables": "v116",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0598",
+        "Nan Count": "15323",
+        "Nan Rate": "0.2085",
+        "PSI": "0.4306",
+        "Variables": "v117",
+        "WOE_shape": "Up"
+    },
+    {
+        "IV": "0.0082",
+        "Nan Count": "14900",
+        "Nan Rate": "0.2027",
+        "PSI": "0.4504",
+        "Variables": "v118",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.01",
+        "Nan Count": "13923",
+        "Nan Rate": "0.1894",
+        "PSI": "0.4609",
+        "Variables": "v119",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0065",
+        "Nan Count": "32434",
+        "Nan Rate": "0.4413",
+        "PSI": "0.3128",
+        "Variables": "v120",
+        "WOE_shape": "Up"
+    },
+    {
+        "IV": "0.0287",
+        "Nan Count": "13943",
+        "Nan Rate": "0.1897",
+        "PSI": "0.4442",
+        "Variables": "v121",
+        "WOE_shape": "Down"
+    },
+    {
+        "IV": "0.0078",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.565",
+        "Variables": "v122",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0017",
+        "Nan Count": "52566",
+        "Nan Rate": "0.7152",
+        "PSI": "0.1685",
+        "Variables": "v123",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0009",
+        "Nan Count": "59181",
+        "Nan Rate": "0.8052",
+        "PSI": "0.1117",
+        "Variables": "v124",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0618",
+        "Nan Count": "1388",
+        "Nan Rate": "0.0189",
+        "PSI": "0.5825",
+        "Variables": "v125",
+        "WOE_shape": "Down"
+    },
+    {
+        "IV": "0.0055",
+        "Nan Count": "68503",
+        "Nan Rate": "0.932",
+        "PSI": "0.0345",
+        "Variables": "v126",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0203",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5651",
+        "Variables": "v127",
+        "WOE_shape": "Up"
+    },
+    {
+        "IV": "0.0011",
+        "Nan Count": "55930",
+        "Nan Rate": "0.761",
+        "PSI": "0.1451",
+        "Variables": "v128",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0016",
+        "Nan Count": "55602",
+        "Nan Rate": "0.7565",
+        "PSI": "0.1475",
+        "Variables": "v129",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0005",
+        "Nan Count": "68164",
+        "Nan Rate": "0.9274",
+        "PSI": "0.0455",
+        "Variables": "v130",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0502",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5652",
+        "Variables": "v131",
+        "WOE_shape": "Down"
+    },
+    {
+        "IV": "0.0022",
+        "Nan Count": "52491",
+        "Nan Rate": "0.7142",
+        "PSI": "0.1797",
+        "Variables": "v132",
+        "WOE_shape": "U-shape"
+    },
+    {
+        "IV": "0.0033",
+        "Nan Count": "68164",
+        "Nan Rate": "0.9274",
+        "PSI": "0.2133",
+        "Variables": "v133",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0073",
+        "Nan Count": "62990",
+        "Nan Rate": "0.857",
+        "PSI": "0.075",
+        "Variables": "v134",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0175",
+        "Nan Count": "59558",
+        "Nan Rate": "0.8103",
+        "PSI": "0.1046",
+        "Variables": "v135",
+        "WOE_shape": "None"
+    },
+    {
+        "IV": "0.0018",
+        "Nan Count": "61824",
+        "Nan Rate": "0.8411",
+        "PSI": "0.0938",
+        "Variables": "v137",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0115",
+        "Nan Count": "14900",
+        "Nan Rate": "0.2027",
+        "PSI": "0.4496",
+        "Variables": "v138",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0169",
+        "Nan Count": "64900",
+        "Nan Rate": "0.883",
+        "PSI": "0.0592",
+        "Variables": "v139",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0013",
+        "Nan Count": "65586",
+        "Nan Rate": "0.8923",
+        "PSI": "0.0579",
+        "Variables": "v140",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0034",
+        "Nan Count": "63640",
+        "Nan Rate": "0.8659",
+        "PSI": "0.0741",
+        "Variables": "v141",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0006",
+        "Nan Count": "65586",
+        "Nan Rate": "0.8923",
+        "PSI": "0.1332",
+        "Variables": "v142",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0374",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.4405",
+        "Variables": "v143",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.012",
+        "Nan Count": "32907",
+        "Nan Rate": "0.4477",
+        "PSI": "0.3015",
+        "Variables": "v144",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0007",
+        "Nan Count": "61842",
+        "Nan Rate": "0.8414",
+        "PSI": "0.0976",
+        "Variables": "v145",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0075",
+        "Nan Count": "14168",
+        "Nan Rate": "0.1928",
+        "PSI": "0.1228",
+        "Variables": "v146",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0103",
+        "Nan Count": "16997",
+        "Nan Rate": "0.2313",
+        "PSI": "0.152",
+        "Variables": "v147",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0013",
+        "Nan Count": "61824",
+        "Nan Rate": "0.8411",
+        "PSI": "0.2399",
+        "Variables": "v148",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0026",
+        "Nan Count": "32710",
+        "Nan Rate": "0.445",
+        "PSI": "0.3311",
+        "Variables": "v149",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0222",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.4418",
+        "Variables": "v150",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0062",
+        "Nan Count": "68164",
+        "Nan Rate": "0.9274",
+        "PSI": "0.1301",
+        "Variables": "v151",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0115",
+        "Nan Count": "66590",
+        "Nan Rate": "0.906",
+        "PSI": "0.0532",
+        "Variables": "v152",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.069",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5652",
+        "Variables": "v153",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0077",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5645",
+        "Variables": "v154",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0053",
+        "Nan Count": "25677",
+        "Nan Rate": "0.3493",
+        "PSI": "0.3719",
+        "Variables": "v155",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0054",
+        "Nan Count": "45290",
+        "Nan Rate": "0.6162",
+        "PSI": "0.2253",
+        "Variables": "v156",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0123",
+        "Nan Count": "16997",
+        "Nan Rate": "0.2313",
+        "PSI": "0.1824",
+        "Variables": "v157",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0057",
+        "Nan Count": "52566",
+        "Nan Rate": "0.7152",
+        "PSI": "0.1685",
+        "Variables": "v158",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.003",
+        "Nan Count": "52519",
+        "Nan Rate": "0.7145",
+        "PSI": "0.1794",
+        "Variables": "v159",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0127",
+        "Nan Count": "15323",
+        "Nan Rate": "0.2085",
+        "PSI": "0.1199",
+        "Variables": "v160",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0139",
+        "Nan Count": "64900",
+        "Nan Rate": "0.883",
+        "PSI": "0.1079",
+        "Variables": "v161",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0051",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5647",
+        "Variables": "v162",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0244",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5651",
+        "Variables": "v163",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0065",
+        "Nan Count": "28297",
+        "Nan Rate": "0.385",
+        "PSI": "0.3476",
+        "Variables": "v164",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0129",
+        "Nan Count": "15323",
+        "Nan Rate": "0.2085",
+        "PSI": "0.128",
+        "Variables": "v165",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0025",
+        "Nan Count": "64811",
+        "Nan Rate": "0.8818",
+        "PSI": "0.0716",
+        "Variables": "v166",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0",
+        "Nan Count": "57461",
+        "Nan Rate": "0.7818",
+        "PSI": "0.1312",
+        "Variables": "v167",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0071",
+        "Nan Count": "20511",
+        "Nan Rate": "0.2791",
+        "PSI": "0.4127",
+        "Variables": "v168",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0676",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5651",
+        "Variables": "v169",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0289",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5653",
+        "Variables": "v170",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0081",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5648",
+        "Variables": "v171",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0016",
+        "Nan Count": "51173",
+        "Nan Rate": "0.6962",
+        "PSI": "0.1755",
+        "Variables": "v172",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0063",
+        "Nan Count": "19791",
+        "Nan Rate": "0.2693",
+        "PSI": "0.4099",
+        "Variables": "v173",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0016",
+        "Nan Count": "54244",
+        "Nan Rate": "0.738",
+        "PSI": "0.1513",
+        "Variables": "v174",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0078",
+        "Nan Count": "31562",
+        "Nan Rate": "0.4294",
+        "PSI": "0.3196",
+        "Variables": "v175",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0135",
+        "Nan Count": "52491",
+        "Nan Rate": "0.7142",
+        "PSI": "0.2088",
+        "Variables": "v176",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0525",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5644",
+        "Variables": "v177",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0485",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.565",
+        "Variables": "v178",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0031",
+        "Nan Count": "69185",
+        "Nan Rate": "0.9413",
+        "PSI": "0.0341",
+        "Variables": "v179",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0029",
+        "Nan Count": "52566",
+        "Nan Rate": "0.7152",
+        "PSI": "0.168",
+        "Variables": "v180",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.022",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.4417",
+        "Variables": "v181",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0017",
+        "Nan Count": "58526",
+        "Nan Rate": "0.7963",
+        "PSI": "0.1217",
+        "Variables": "v182",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0898",
+        "Nan Count": "17844",
+        "Nan Rate": "0.2428",
+        "PSI": "0.4152",
+        "Variables": "v183",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0034",
+        "Nan Count": "59558",
+        "Nan Rate": "0.8103",
+        "PSI": "0.1997",
+        "Variables": "v184",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0629",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5648",
+        "Variables": "v185",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0017",
+        "Nan Count": "67194",
+        "Nan Rate": "0.9142",
+        "PSI": "0.0481",
+        "Variables": "v186",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0023",
+        "Nan Count": "67185",
+        "Nan Rate": "0.9141",
+        "PSI": "0.048",
+        "Variables": "v187",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0036",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5652",
+        "Variables": "v188",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0035",
+        "Nan Count": "69496",
+        "Nan Rate": "0.9455",
+        "PSI": "0.0305",
+        "Variables": "v189",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0038",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.1822",
+        "Variables": "v190",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0021",
+        "Nan Count": "68573",
+        "Nan Rate": "0.933",
+        "PSI": "0.0401",
+        "Variables": "v191",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0102",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5651",
+        "Variables": "v192",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0074",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5651",
+        "Variables": "v193",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0017",
+        "Nan Count": "69179",
+        "Nan Rate": "0.9412",
+        "PSI": "0.0346",
+        "Variables": "v194",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.002",
+        "Nan Count": "59947",
+        "Nan Rate": "0.8156",
+        "PSI": "0.0995",
+        "Variables": "v195",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0019",
+        "Nan Count": "52491",
+        "Nan Rate": "0.7142",
+        "PSI": "0.1364",
+        "Variables": "v196",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0088",
+        "Nan Count": "53558",
+        "Nan Rate": "0.7287",
+        "PSI": "0.1446",
+        "Variables": "v197",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.011",
+        "Nan Count": "14163",
+        "Nan Rate": "0.1927",
+        "PSI": "0.4592",
+        "Variables": "v198",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0632",
+        "Nan Count": "13680",
+        "Nan Rate": "0.1861",
+        "PSI": "0.4473",
+        "Variables": "v199",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0023",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.2346",
+        "Variables": "v200",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0063",
+        "Nan Count": "14900",
+        "Nan Rate": "0.2027",
+        "PSI": "0.4506",
+        "Variables": "v201",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0088",
+        "Nan Count": "13108",
+        "Nan Rate": "0.1783",
+        "PSI": "0.4648",
+        "Variables": "v202",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0372",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.565",
+        "Variables": "v203",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0119",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5651",
+        "Variables": "v204",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0007",
+        "Nan Count": "39463",
+        "Nan Rate": "0.5369",
+        "PSI": "0.2758",
+        "Variables": "v205",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0057",
+        "Nan Count": "33920",
+        "Nan Rate": "0.4615",
+        "PSI": "0.3141",
+        "Variables": "v206",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0067",
+        "Nan Count": "66590",
+        "Nan Rate": "0.906",
+        "PSI": "0.0528",
+        "Variables": "v207",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0225",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5652",
+        "Variables": "v208",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0037",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.248",
+        "Variables": "v209",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.003",
+        "Nan Count": "44071",
+        "Nan Rate": "0.5996",
+        "PSI": "0.2366",
+        "Variables": "v210",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0123",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5648",
+        "Variables": "v211",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0086",
+        "Nan Count": "16997",
+        "Nan Rate": "0.2313",
+        "PSI": "0.1125",
+        "Variables": "v212",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.003",
+        "Nan Count": "69496",
+        "Nan Rate": "0.9455",
+        "PSI": "0.2453",
+        "Variables": "v213",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0057",
+        "Nan Count": "61842",
+        "Nan Rate": "0.8414",
+        "PSI": "0.1206",
+        "Variables": "v214",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0057",
+        "Nan Count": "65811",
+        "Nan Rate": "0.8954",
+        "PSI": "0.202",
+        "Variables": "v215",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0137",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.1769",
+        "Variables": "v216",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0028",
+        "Nan Count": "71528",
+        "Nan Rate": "0.9732",
+        "PSI": "0.1663",
+        "Variables": "v217",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0114",
+        "Nan Count": "22744",
+        "Nan Rate": "0.3094",
+        "PSI": "0.3806",
+        "Variables": "v218",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.001",
+        "Nan Count": "55930",
+        "Nan Rate": "0.761",
+        "PSI": "0.1451",
+        "Variables": "v219",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0034",
+        "Nan Count": "41355",
+        "Nan Rate": "0.5627",
+        "PSI": "0.2509",
+        "Variables": "v220",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0368",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5652",
+        "Variables": "v221",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0496",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.565",
+        "Variables": "v222",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0111",
+        "Nan Count": "18613",
+        "Nan Rate": "0.2532",
+        "PSI": "0.4182",
+        "Variables": "v223",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0017",
+        "Nan Count": "68488",
+        "Nan Rate": "0.9318",
+        "PSI": "0.0345",
+        "Variables": "v224",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0055",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5647",
+        "Variables": "v225",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0206",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5645",
+        "Variables": "v226",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0311",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5646",
+        "Variables": "v227",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0111",
+        "Nan Count": "62990",
+        "Nan Rate": "0.857",
+        "PSI": "0.075",
+        "Variables": "v228",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0026",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5654",
+        "Variables": "v229",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0006",
+        "Nan Count": "71752",
+        "Nan Rate": "0.9762",
+        "PSI": "0.0148",
+        "Variables": "v230",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0051",
+        "Nan Count": "20511",
+        "Nan Rate": "0.2791",
+        "PSI": "0.4126",
+        "Variables": "v231",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0491",
+        "Nan Count": "27138",
+        "Nan Rate": "0.3692",
+        "PSI": "0.1196",
+        "Variables": "v232",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0104",
+        "Nan Count": "19791",
+        "Nan Rate": "0.2693",
+        "PSI": "0.4091",
+        "Variables": "v233",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0416",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5652",
+        "Variables": "v234",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.002",
+        "Nan Count": "70648",
+        "Nan Rate": "0.9612",
+        "PSI": "0.0216",
+        "Variables": "v235",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0015",
+        "Nan Count": "71529",
+        "Nan Rate": "0.9732",
+        "PSI": "0.014",
+        "Variables": "v236",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0024",
+        "Nan Count": "65586",
+        "Nan Rate": "0.8923",
+        "PSI": "0.0581",
+        "Variables": "v237",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0111",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.1611",
+        "Variables": "v238",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0537",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.565",
+        "Variables": "v239",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0215",
+        "Nan Count": "30961",
+        "Nan Rate": "0.4212",
+        "PSI": "0.3272",
+        "Variables": "v240",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0148",
+        "Nan Count": "16997",
+        "Nan Rate": "0.2313",
+        "PSI": "0.2304",
+        "Variables": "v241",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0045",
+        "Nan Count": "39822",
+        "Nan Rate": "0.5418",
+        "PSI": "0.2598",
+        "Variables": "v242",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0101",
+        "Nan Count": "16997",
+        "Nan Rate": "0.2313",
+        "PSI": "0.1626",
+        "Variables": "v243",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0146",
+        "Nan Count": "33660",
+        "Nan Rate": "0.458",
+        "PSI": "0.3072",
+        "Variables": "v244",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0046",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.564",
+        "Variables": "v245",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0222",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.4418",
+        "Variables": "v246",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0023",
+        "Nan Count": "64470",
+        "Nan Rate": "0.8771",
+        "PSI": "0.0685",
+        "Variables": "v247",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0046",
+        "Nan Count": "52491",
+        "Nan Rate": "0.7142",
+        "PSI": "0.1939",
+        "Variables": "v248",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0152",
+        "Nan Count": "25677",
+        "Nan Rate": "0.3493",
+        "PSI": "0.372",
+        "Variables": "v249",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0324",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5649",
+        "Variables": "v250",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0029",
+        "Nan Count": "63640",
+        "Nan Rate": "0.8659",
+        "PSI": "0.1185",
+        "Variables": "v251",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0118",
+        "Nan Count": "24495",
+        "Nan Rate": "0.3333",
+        "PSI": "0.3761",
+        "Variables": "v252",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.017",
+        "Nan Count": "25677",
+        "Nan Rate": "0.3493",
+        "PSI": "0.3721",
+        "Variables": "v253",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0023",
+        "Nan Count": "50819",
+        "Nan Rate": "0.6914",
+        "PSI": "0.1847",
+        "Variables": "v254",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0086",
+        "Nan Count": "16997",
+        "Nan Rate": "0.2313",
+        "PSI": "0.1255",
+        "Variables": "v255",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0092",
+        "Nan Count": "33467",
+        "Nan Rate": "0.4553",
+        "PSI": "0.3088",
+        "Variables": "v256",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0112",
+        "Nan Count": "68164",
+        "Nan Rate": "0.9274",
+        "PSI": "0.1551",
+        "Variables": "v257",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0081",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5652",
+        "Variables": "v258",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0204",
+        "Nan Count": "13680",
+        "Nan Rate": "0.1861",
+        "PSI": "0.4475",
+        "Variables": "v259",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0617",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5651",
+        "Variables": "v260",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0205",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5651",
+        "Variables": "v261",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0007",
+        "Nan Count": "52566",
+        "Nan Rate": "0.7152",
+        "PSI": "0.2356",
+        "Variables": "v262",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0365",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5651",
+        "Variables": "v263",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0054",
+        "Nan Count": "66590",
+        "Nan Rate": "0.906",
+        "PSI": "0.0533",
+        "Variables": "v264",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0035",
+        "Nan Count": "53332",
+        "Nan Rate": "0.7256",
+        "PSI": "0.1586",
+        "Variables": "v265",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0266",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.565",
+        "Variables": "v266",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0032",
+        "Nan Count": "59947",
+        "Nan Rate": "0.8156",
+        "PSI": "0.0996",
+        "Variables": "v267",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0016",
+        "Nan Count": "56940",
+        "Nan Rate": "0.7747",
+        "PSI": "0.1397",
+        "Variables": "v268",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0669",
+        "Nan Count": "13680",
+        "Nan Rate": "0.1861",
+        "PSI": "0.447",
+        "Variables": "v269",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0258",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5652",
+        "Variables": "v270",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0058",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.2195",
+        "Variables": "v271",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0181",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5649",
+        "Variables": "v272",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0043",
+        "Nan Count": "59245",
+        "Nan Rate": "0.8061",
+        "PSI": "0.1107",
+        "Variables": "v273",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0079",
+        "Nan Count": "52491",
+        "Nan Rate": "0.7142",
+        "PSI": "0.1793",
+        "Variables": "v274",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0131",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.1238",
+        "Variables": "v275",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0026",
+        "Nan Count": "44071",
+        "Nan Rate": "0.5996",
+        "PSI": "0.2366",
+        "Variables": "v276",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0912",
+        "Nan Count": "0",
+        "Nan Rate": "0.0",
+        "PSI": "0.6065",
+        "Variables": "v277",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.002",
+        "Nan Count": "68170",
+        "Nan Rate": "0.9275",
+        "PSI": "0.0451",
+        "Variables": "v278",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0317",
+        "Nan Count": "13724",
+        "Nan Rate": "0.1867",
+        "PSI": "0.4462",
+        "Variables": "v279",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0017",
+        "Nan Count": "59136",
+        "Nan Rate": "0.8046",
+        "PSI": "0.1117",
+        "Variables": "v280",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0227",
+        "Nan Count": "13680",
+        "Nan Rate": "0.1861",
+        "PSI": "0.4473",
+        "Variables": "v281",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0101",
+        "Nan Count": "70631",
+        "Nan Rate": "0.961",
+        "PSI": "0.0211",
+        "Variables": "v282",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0105",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5648",
+        "Variables": "v283",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0448",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5646",
+        "Variables": "v284",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0013",
+        "Nan Count": "61824",
+        "Nan Rate": "0.8411",
+        "PSI": "0.0936",
+        "Variables": "v285",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0068",
+        "Nan Count": "52566",
+        "Nan Rate": "0.7152",
+        "PSI": "0.1316",
+        "Variables": "v286",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0026",
+        "Nan Count": "52954",
+        "Nan Rate": "0.7205",
+        "PSI": "0.1725",
+        "Variables": "v287",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0202",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5653",
+        "Variables": "v288",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0071",
+        "Nan Count": "25677",
+        "Nan Rate": "0.3493",
+        "PSI": "0.3718",
+        "Variables": "v289",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0057",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5653",
+        "Variables": "v290",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0029",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.239",
+        "Variables": "v291",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.007",
+        "Nan Count": "52491",
+        "Nan Rate": "0.7142",
+        "PSI": "0.1556",
+        "Variables": "v292",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.005",
+        "Nan Count": "65552",
+        "Nan Rate": "0.8919",
+        "PSI": "0.1315",
+        "Variables": "v293",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0065",
+        "Nan Count": "59568",
+        "Nan Rate": "0.8104",
+        "PSI": "0.105",
+        "Variables": "v294",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0034",
+        "Nan Count": "70631",
+        "Nan Rate": "0.961",
+        "PSI": "0.1185",
+        "Variables": "v295",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0078",
+        "Nan Count": "68503",
+        "Nan Rate": "0.932",
+        "PSI": "0.0349",
+        "Variables": "v296",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.01",
+        "Nan Count": "25779",
+        "Nan Rate": "0.3507",
+        "PSI": "0.3713",
+        "Variables": "v297",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0036",
+        "Nan Count": "65586",
+        "Nan Rate": "0.8923",
+        "PSI": "0.0578",
+        "Variables": "v298",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0145",
+        "Nan Count": "32907",
+        "Nan Rate": "0.4477",
+        "PSI": "0.3014",
+        "Variables": "v299",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0087",
+        "Nan Count": "33920",
+        "Nan Rate": "0.4615",
+        "PSI": "0.3144",
+        "Variables": "v300",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0009",
+        "Nan Count": "58526",
+        "Nan Rate": "0.7963",
+        "PSI": "0.1218",
+        "Variables": "v301",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0165",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5642",
+        "Variables": "v302",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0093",
+        "Nan Count": "25677",
+        "Nan Rate": "0.3493",
+        "PSI": "0.1111",
+        "Variables": "v303",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0022",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.1301",
+        "Variables": "v304",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0034",
+        "Nan Count": "33467",
+        "Nan Rate": "0.4553",
+        "PSI": "0.309",
+        "Variables": "v305",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.017",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.2185",
+        "Variables": "v306",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0178",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5652",
+        "Variables": "v307",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0015",
+        "Nan Count": "65586",
+        "Nan Rate": "0.8923",
+        "PSI": "0.0583",
+        "Variables": "v308",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0064",
+        "Nan Count": "59947",
+        "Nan Rate": "0.8156",
+        "PSI": "0.099",
+        "Variables": "v309",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0008",
+        "Nan Count": "52566",
+        "Nan Rate": "0.7152",
+        "PSI": "0.1685",
+        "Variables": "v310",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0033",
+        "Nan Count": "62568",
+        "Nan Rate": "0.8513",
+        "PSI": "0.0871",
+        "Variables": "v311",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0146",
+        "Nan Count": "25677",
+        "Nan Rate": "0.3493",
+        "PSI": "0.1976",
+        "Variables": "v312",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0171",
+        "Nan Count": "15117",
+        "Nan Rate": "0.2057",
+        "PSI": "0.4483",
+        "Variables": "v313",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0062",
+        "Nan Count": "13108",
+        "Nan Rate": "0.1783",
+        "PSI": "0.4657",
+        "Variables": "v314",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0076",
+        "Nan Count": "63640",
+        "Nan Rate": "0.8659",
+        "PSI": "0.0739",
+        "Variables": "v315",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0079",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5651",
+        "Variables": "v316",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0516",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5654",
+        "Variables": "v317",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0248",
+        "Nan Count": "24464",
+        "Nan Rate": "0.3328",
+        "PSI": "0.3655",
+        "Variables": "v318",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0116",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5653",
+        "Variables": "v319",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0116",
+        "Nan Count": "61824",
+        "Nan Rate": "0.8411",
+        "PSI": "0.1186",
+        "Variables": "v320",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0011",
+        "Nan Count": "52566",
+        "Nan Rate": "0.7152",
+        "PSI": "0.1678",
+        "Variables": "v321",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0012",
+        "Nan Count": "56940",
+        "Nan Rate": "0.7747",
+        "PSI": "0.1398",
+        "Variables": "v322",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0051",
+        "Nan Count": "59947",
+        "Nan Rate": "0.8156",
+        "PSI": "0.0987",
+        "Variables": "v323",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0545",
+        "Nan Count": "13680",
+        "Nan Rate": "0.1861",
+        "PSI": "0.4471",
+        "Variables": "v324",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0085",
+        "Nan Count": "41115",
+        "Nan Rate": "0.5594",
+        "PSI": "0.2497",
+        "Variables": "v325",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0494",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5653",
+        "Variables": "v326",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0107",
+        "Nan Count": "63640",
+        "Nan Rate": "0.8659",
+        "PSI": "0.1024",
+        "Variables": "v327",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0057",
+        "Nan Count": "62990",
+        "Nan Rate": "0.857",
+        "PSI": "0.2138",
+        "Variables": "v328",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0476",
+        "Nan Count": "13724",
+        "Nan Rate": "0.1867",
+        "PSI": "0.4459",
+        "Variables": "v329",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0165",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5643",
+        "Variables": "v330",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0116",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5648",
+        "Variables": "v331",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0317",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5649",
+        "Variables": "v332",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0041",
+        "Nan Count": "50819",
+        "Nan Rate": "0.6914",
+        "PSI": "0.1853",
+        "Variables": "v333",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0075",
+        "Nan Count": "16997",
+        "Nan Rate": "0.2313",
+        "PSI": "0.1063",
+        "Variables": "v334",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0049",
+        "Nan Count": "39822",
+        "Nan Rate": "0.5418",
+        "PSI": "0.2598",
+        "Variables": "v335",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0031",
+        "Nan Count": "61826",
+        "Nan Rate": "0.8412",
+        "PSI": "0.0933",
+        "Variables": "v336",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0023",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5648",
+        "Variables": "v337",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0218",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5646",
+        "Variables": "v338",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0098",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5649",
+        "Variables": "v339",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.059",
+        "Nan Count": "13680",
+        "Nan Rate": "0.1861",
+        "PSI": "0.4467",
+        "Variables": "v340",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0235",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5644",
+        "Variables": "v341",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0059",
+        "Nan Count": "50865",
+        "Nan Rate": "0.692",
+        "PSI": "0.1852",
+        "Variables": "v342",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0034",
+        "Nan Count": "59558",
+        "Nan Rate": "0.8103",
+        "PSI": "0.1053",
+        "Variables": "v343",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0222",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.4418",
+        "Variables": "v344",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.004",
+        "Nan Count": "52491",
+        "Nan Rate": "0.7142",
+        "PSI": "0.1797",
+        "Variables": "v345",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0008",
+        "Nan Count": "63640",
+        "Nan Rate": "0.8659",
+        "PSI": "0.2165",
+        "Variables": "v346",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.002",
+        "Nan Count": "44071",
+        "Nan Rate": "0.5996",
+        "PSI": "0.2054",
+        "Variables": "v347",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0019",
+        "Nan Count": "32710",
+        "Nan Rate": "0.445",
+        "PSI": "0.3318",
+        "Variables": "v348",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0096",
+        "Nan Count": "14900",
+        "Nan Rate": "0.2027",
+        "PSI": "0.4505",
+        "Variables": "v349",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0092",
+        "Nan Count": "59558",
+        "Nan Rate": "0.8103",
+        "PSI": "0.1047",
+        "Variables": "v350",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0182",
+        "Nan Count": "18417",
+        "Nan Rate": "0.2506",
+        "PSI": "0.4188",
+        "Variables": "v351",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0083",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5645",
+        "Variables": "v352",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0107",
+        "Nan Count": "59558",
+        "Nan Rate": "0.8103",
+        "PSI": "0.2103",
+        "Variables": "v353",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0056",
+        "Nan Count": "44071",
+        "Nan Rate": "0.5996",
+        "PSI": "0.2367",
+        "Variables": "v354",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0005",
+        "Nan Count": "59790",
+        "Nan Rate": "0.8135",
+        "PSI": "0.2415",
+        "Variables": "v355",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0242",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5652",
+        "Variables": "v356",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0043",
+        "Nan Count": "61844",
+        "Nan Rate": "0.8414",
+        "PSI": "0.0979",
+        "Variables": "v357",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0043",
+        "Nan Count": "25593",
+        "Nan Rate": "0.3482",
+        "PSI": "0.3895",
+        "Variables": "v358",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0008",
+        "Nan Count": "63640",
+        "Nan Rate": "0.8659",
+        "PSI": "0.075",
+        "Variables": "v359",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0055",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5647",
+        "Variables": "v360",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0025",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.565",
+        "Variables": "v361",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0098",
+        "Nan Count": "44366",
+        "Nan Rate": "0.6036",
+        "PSI": "0.2347",
+        "Variables": "v362",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0033",
+        "Nan Count": "59558",
+        "Nan Rate": "0.8103",
+        "PSI": "0.1048",
+        "Variables": "v363",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.005",
+        "Nan Count": "53888",
+        "Nan Rate": "0.7332",
+        "PSI": "0.1653",
+        "Variables": "v364",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0132",
+        "Nan Count": "14900",
+        "Nan Rate": "0.2027",
+        "PSI": "0.4498",
+        "Variables": "v365",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.007",
+        "Nan Count": "25564",
+        "Nan Rate": "0.3478",
+        "PSI": "0.116",
+        "Variables": "v366",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0009",
+        "Nan Count": "65586",
+        "Nan Rate": "0.8923",
+        "PSI": "0.1068",
+        "Variables": "v367",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0027",
+        "Nan Count": "65586",
+        "Nan Rate": "0.8923",
+        "PSI": "0.1085",
+        "Variables": "v368",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0011",
+        "Nan Count": "65586",
+        "Nan Rate": "0.8923",
+        "PSI": "0.2474",
+        "Variables": "v369",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0075",
+        "Nan Count": "61842",
+        "Nan Rate": "0.8414",
+        "PSI": "0.1127",
+        "Variables": "v370",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0032",
+        "Nan Count": "44071",
+        "Nan Rate": "0.5996",
+        "PSI": "0.2369",
+        "Variables": "v371",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0128",
+        "Nan Count": "16997",
+        "Nan Rate": "0.2313",
+        "PSI": "0.2481",
+        "Variables": "v372",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0047",
+        "Nan Count": "59558",
+        "Nan Rate": "0.8103",
+        "PSI": "0.1049",
+        "Variables": "v373",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.001",
+        "Nan Count": "67185",
+        "Nan Rate": "0.9141",
+        "PSI": "0.2481",
+        "Variables": "v374",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0014",
+        "Nan Count": "67185",
+        "Nan Rate": "0.9141",
+        "PSI": "0.048",
+        "Variables": "v375",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0138",
+        "Nan Count": "25677",
+        "Nan Rate": "0.3493",
+        "PSI": "0.3721",
+        "Variables": "v376",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0443",
+        "Nan Count": "13724",
+        "Nan Rate": "0.1867",
+        "PSI": "0.4455",
+        "Variables": "v377",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0094",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5648",
+        "Variables": "v378",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0047",
+        "Nan Count": "46733",
+        "Nan Rate": "0.6358",
+        "PSI": "0.2131",
+        "Variables": "v379",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0047",
+        "Nan Count": "13923",
+        "Nan Rate": "0.1894",
+        "PSI": "0.4605",
+        "Variables": "v380",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.015",
+        "Nan Count": "65649",
+        "Nan Rate": "0.8932",
+        "PSI": "0.054",
+        "Variables": "v381",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0064",
+        "Nan Count": "62703",
+        "Nan Rate": "0.8531",
+        "PSI": "0.0836",
+        "Variables": "v382",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0072",
+        "Nan Count": "61145",
+        "Nan Rate": "0.8319",
+        "PSI": "0.0904",
+        "Variables": "v383",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0009",
+        "Nan Count": "59136",
+        "Nan Rate": "0.8046",
+        "PSI": "0.1118",
+        "Variables": "v384",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0025",
+        "Nan Count": "24365",
+        "Nan Rate": "0.3315",
+        "PSI": "0.3823",
+        "Variables": "v385",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0011",
+        "Nan Count": "56940",
+        "Nan Rate": "0.7747",
+        "PSI": "0.1397",
+        "Variables": "v386",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0075",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5644",
+        "Variables": "v387",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0052",
+        "Nan Count": "56940",
+        "Nan Rate": "0.7747",
+        "PSI": "0.1395",
+        "Variables": "v388",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0076",
+        "Nan Count": "59558",
+        "Nan Rate": "0.8103",
+        "PSI": "0.1051",
+        "Variables": "v389",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0027",
+        "Nan Count": "56940",
+        "Nan Rate": "0.7747",
+        "PSI": "0.1398",
+        "Variables": "v390",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0051",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5654",
+        "Variables": "v391",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0545",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.4417",
+        "Variables": "v392",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0054",
+        "Nan Count": "33920",
+        "Nan Rate": "0.4615",
+        "PSI": "0.3145",
+        "Variables": "v393",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0114",
+        "Nan Count": "56940",
+        "Nan Rate": "0.7747",
+        "PSI": "0.1776",
+        "Variables": "v394",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0057",
+        "Nan Count": "52624",
+        "Nan Rate": "0.716",
+        "PSI": "0.1682",
+        "Variables": "v395",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0085",
+        "Nan Count": "39822",
+        "Nan Rate": "0.5418",
+        "PSI": "0.2602",
+        "Variables": "v396",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0024",
+        "Nan Count": "56665",
+        "Nan Rate": "0.771",
+        "PSI": "0.1299",
+        "Variables": "v397",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0162",
+        "Nan Count": "13364",
+        "Nan Rate": "0.1818",
+        "PSI": "0.4626",
+        "Variables": "v398",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0162",
+        "Nan Count": "13923",
+        "Nan Rate": "0.1894",
+        "PSI": "0.22",
+        "Variables": "v399",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0298",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5651",
+        "Variables": "v400",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0169",
+        "Nan Count": "53594",
+        "Nan Rate": "0.7292",
+        "PSI": "0.1419",
+        "Variables": "v401",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0096",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5653",
+        "Variables": "v402",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0006",
+        "Nan Count": "65586",
+        "Nan Rate": "0.8923",
+        "PSI": "0.0584",
+        "Variables": "v403",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0004",
+        "Nan Count": "67185",
+        "Nan Rate": "0.9141",
+        "PSI": "0.0485",
+        "Variables": "v404",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0204",
+        "Nan Count": "13680",
+        "Nan Rate": "0.1861",
+        "PSI": "0.4475",
+        "Variables": "v405",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0067",
+        "Nan Count": "13108",
+        "Nan Rate": "0.1783",
+        "PSI": "0.4654",
+        "Variables": "v406",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0081",
+        "Nan Count": "19791",
+        "Nan Rate": "0.2693",
+        "PSI": "0.4089",
+        "Variables": "v407",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0501",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5644",
+        "Variables": "v408",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0049",
+        "Nan Count": "63967",
+        "Nan Rate": "0.8703",
+        "PSI": "0.0839",
+        "Variables": "v409",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0107",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.1782",
+        "Variables": "v410",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0431",
+        "Nan Count": "13680",
+        "Nan Rate": "0.1861",
+        "PSI": "0.4473",
+        "Variables": "v411",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0096",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5643",
+        "Variables": "v412",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0043",
+        "Nan Count": "55938",
+        "Nan Rate": "0.7611",
+        "PSI": "0.1437",
+        "Variables": "v413",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.009",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5648",
+        "Variables": "v414",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.004",
+        "Nan Count": "68488",
+        "Nan Rate": "0.9318",
+        "PSI": "0.0339",
+        "Variables": "v415",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0128",
+        "Nan Count": "19477",
+        "Nan Rate": "0.265",
+        "PSI": "0.4096",
+        "Variables": "v416",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0149",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5653",
+        "Variables": "v417",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0356",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5646",
+        "Variables": "v418",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.003",
+        "Nan Count": "64718",
+        "Nan Rate": "0.8805",
+        "PSI": "0.21",
+        "Variables": "v419",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0075",
+        "Nan Count": "18438",
+        "Nan Rate": "0.2509",
+        "PSI": "0.4259",
+        "Variables": "v420",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0009",
+        "Nan Count": "67185",
+        "Nan Rate": "0.9141",
+        "PSI": "0.0483",
+        "Variables": "v421",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0237",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5648",
+        "Variables": "v422",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0341",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5649",
+        "Variables": "v423",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0222",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.2215",
+        "Variables": "v424",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0132",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5652",
+        "Variables": "v425",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0021",
+        "Nan Count": "59947",
+        "Nan Rate": "0.8156",
+        "PSI": "0.1609",
+        "Variables": "v426",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0222",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.4418",
+        "Variables": "v427",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.043",
+        "Nan Count": "17844",
+        "Nan Rate": "0.2428",
+        "PSI": "0.4155",
+        "Variables": "v428",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0122",
+        "Nan Count": "19791",
+        "Nan Rate": "0.2693",
+        "PSI": "0.4085",
+        "Variables": "v429",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0398",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5647",
+        "Variables": "v430",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0042",
+        "Nan Count": "69496",
+        "Nan Rate": "0.9455",
+        "PSI": "0.029",
+        "Variables": "v431",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.001",
+        "Nan Count": "25593",
+        "Nan Rate": "0.3482",
+        "PSI": "0.3897",
+        "Variables": "v432",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0048",
+        "Nan Count": "13108",
+        "Nan Rate": "0.1783",
+        "PSI": "0.4653",
+        "Variables": "v433",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0225",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5648",
+        "Variables": "v434",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0222",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5653",
+        "Variables": "v435",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0021",
+        "Nan Count": "61824",
+        "Nan Rate": "0.8411",
+        "PSI": "0.0938",
+        "Variables": "v436",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0096",
+        "Nan Count": "44071",
+        "Nan Rate": "0.5996",
+        "PSI": "0.2069",
+        "Variables": "v437",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0195",
+        "Nan Count": "33920",
+        "Nan Rate": "0.4615",
+        "PSI": "0.3146",
+        "Variables": "v438",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0079",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5651",
+        "Variables": "v439",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0155",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.4418",
+        "Variables": "v440",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0151",
+        "Nan Count": "19791",
+        "Nan Rate": "0.2693",
+        "PSI": "0.4085",
+        "Variables": "v441",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0195",
+        "Nan Count": "46585",
+        "Nan Rate": "0.6338",
+        "PSI": "0.1877",
+        "Variables": "v442",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0028",
+        "Nan Count": "68488",
+        "Nan Rate": "0.9318",
+        "PSI": "0.0347",
+        "Variables": "v443",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0008",
+        "Nan Count": "71528",
+        "Nan Rate": "0.9732",
+        "PSI": "0.0142",
+        "Variables": "v444",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0641",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5649",
+        "Variables": "v445",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0209",
+        "Nan Count": "18417",
+        "Nan Rate": "0.2506",
+        "PSI": "0.4187",
+        "Variables": "v446",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0088",
+        "Nan Count": "61894",
+        "Nan Rate": "0.8421",
+        "PSI": "0.0969",
+        "Variables": "v447",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.018",
+        "Nan Count": "64900",
+        "Nan Rate": "0.883",
+        "PSI": "0.0595",
+        "Variables": "v448",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0008",
+        "Nan Count": "68488",
+        "Nan Rate": "0.9318",
+        "PSI": "0.0349",
+        "Variables": "v449",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0057",
+        "Nan Count": "65552",
+        "Nan Rate": "0.8919",
+        "PSI": "0.0549",
+        "Variables": "v450",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0028",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.564",
+        "Variables": "v451",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0028",
+        "Nan Count": "68164",
+        "Nan Rate": "0.9274",
+        "PSI": "0.045",
+        "Variables": "v452",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0256",
+        "Nan Count": "40249",
+        "Nan Rate": "0.5476",
+        "PSI": "0.1466",
+        "Variables": "v453",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0063",
+        "Nan Count": "39822",
+        "Nan Rate": "0.5418",
+        "PSI": "0.2603",
+        "Variables": "v454",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0091",
+        "Nan Count": "24365",
+        "Nan Rate": "0.3315",
+        "PSI": "0.3821",
+        "Variables": "v455",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0053",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.2393",
+        "Variables": "v456",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0232",
+        "Nan Count": "0",
+        "Nan Rate": "0.0",
+        "PSI": "0.6055",
+        "Variables": "v457",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0059",
+        "Nan Count": "59558",
+        "Nan Rate": "0.8103",
+        "PSI": "0.2321",
+        "Variables": "v458",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0081",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5648",
+        "Variables": "v459",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0038",
+        "Nan Count": "68164",
+        "Nan Rate": "0.9274",
+        "PSI": "0.2311",
+        "Variables": "v460",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0014",
+        "Nan Count": "25593",
+        "Nan Rate": "0.3482",
+        "PSI": "0.3893",
+        "Variables": "v461",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0365",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5654",
+        "Variables": "v462",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0026",
+        "Nan Count": "51173",
+        "Nan Rate": "0.6962",
+        "PSI": "0.1763",
+        "Variables": "v463",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.017",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5651",
+        "Variables": "v464",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.005",
+        "Nan Count": "68488",
+        "Nan Rate": "0.9318",
+        "PSI": "0.2453",
+        "Variables": "v465",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0168",
+        "Nan Count": "52566",
+        "Nan Rate": "0.7152",
+        "PSI": "0.2181",
+        "Variables": "v466",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0073",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5648",
+        "Variables": "v467",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0086",
+        "Nan Count": "68547",
+        "Nan Rate": "0.9326",
+        "PSI": "0.1063",
+        "Variables": "v468",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0511",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.565",
+        "Variables": "v469",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.012",
+        "Nan Count": "21109",
+        "Nan Rate": "0.2872",
+        "PSI": "0.3964",
+        "Variables": "v470",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0385",
+        "Nan Count": "13680",
+        "Nan Rate": "0.1861",
+        "PSI": "0.447",
+        "Variables": "v471",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0162",
+        "Nan Count": "16997",
+        "Nan Rate": "0.2313",
+        "PSI": "0.4392",
+        "Variables": "v472",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0039",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.1609",
+        "Variables": "v473",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0022",
+        "Nan Count": "50819",
+        "Nan Rate": "0.6914",
+        "PSI": "0.185",
+        "Variables": "v474",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0015",
+        "Nan Count": "69179",
+        "Nan Rate": "0.9412",
+        "PSI": "0.2008",
+        "Variables": "v475",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0386",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5643",
+        "Variables": "v476",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0105",
+        "Nan Count": "19791",
+        "Nan Rate": "0.2693",
+        "PSI": "0.4098",
+        "Variables": "v477",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0016",
+        "Nan Count": "59790",
+        "Nan Rate": "0.8135",
+        "PSI": "0.1129",
+        "Variables": "v478",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0021",
+        "Nan Count": "67185",
+        "Nan Rate": "0.9141",
+        "PSI": "0.1022",
+        "Variables": "v479",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0086",
+        "Nan Count": "16997",
+        "Nan Rate": "0.2313",
+        "PSI": "0.4393",
+        "Variables": "v480",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.015",
+        "Nan Count": "66590",
+        "Nan Rate": "0.906",
+        "PSI": "0.1565",
+        "Variables": "v481",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0132",
+        "Nan Count": "13108",
+        "Nan Rate": "0.1783",
+        "PSI": "0.1239",
+        "Variables": "v482",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0355",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5652",
+        "Variables": "v483",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0074",
+        "Nan Count": "65811",
+        "Nan Rate": "0.8954",
+        "PSI": "0.0554",
+        "Variables": "v484",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0149",
+        "Nan Count": "21109",
+        "Nan Rate": "0.2872",
+        "PSI": "0.3961",
+        "Variables": "v485",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0057",
+        "Nan Count": "65586",
+        "Nan Rate": "0.8923",
+        "PSI": "0.0571",
+        "Variables": "v486",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0217",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5651",
+        "Variables": "v487",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0027",
+        "Nan Count": "53884",
+        "Nan Rate": "0.7331",
+        "PSI": "0.1653",
+        "Variables": "v488",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0139",
+        "Nan Count": "26300",
+        "Nan Rate": "0.3578",
+        "PSI": "0.3678",
+        "Variables": "v489",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0322",
+        "Nan Count": "15323",
+        "Nan Rate": "0.2085",
+        "PSI": "0.1987",
+        "Variables": "v490",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0078",
+        "Nan Count": "66590",
+        "Nan Rate": "0.906",
+        "PSI": "0.053",
+        "Variables": "v491",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0045",
+        "Nan Count": "63435",
+        "Nan Rate": "0.8631",
+        "PSI": "0.0787",
+        "Variables": "v492",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0018",
+        "Nan Count": "53884",
+        "Nan Rate": "0.7331",
+        "PSI": "0.1654",
+        "Variables": "v493",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0015",
+        "Nan Count": "59136",
+        "Nan Rate": "0.8046",
+        "PSI": "0.1118",
+        "Variables": "v494",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0402",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5653",
+        "Variables": "v495",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0059",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5652",
+        "Variables": "v496",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0139",
+        "Nan Count": "14900",
+        "Nan Rate": "0.2027",
+        "PSI": "0.1638",
+        "Variables": "v497",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0101",
+        "Nan Count": "62993",
+        "Nan Rate": "0.857",
+        "PSI": "0.0747",
+        "Variables": "v498",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0001",
+        "Nan Count": "32710",
+        "Nan Rate": "0.445",
+        "PSI": "0.332",
+        "Variables": "v499",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0054",
+        "Nan Count": "69496",
+        "Nan Rate": "0.9455",
+        "PSI": "0.0298",
+        "Variables": "v500",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0203",
+        "Nan Count": "22744",
+        "Nan Rate": "0.3094",
+        "PSI": "0.38",
+        "Variables": "v501",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0083",
+        "Nan Count": "59947",
+        "Nan Rate": "0.8156",
+        "PSI": "0.0992",
+        "Variables": "v502",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0125",
+        "Nan Count": "65586",
+        "Nan Rate": "0.8923",
+        "PSI": "0.1741",
+        "Variables": "v503",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0016",
+        "Nan Count": "59136",
+        "Nan Rate": "0.8046",
+        "PSI": "0.1118",
+        "Variables": "v504",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0066",
+        "Nan Count": "16997",
+        "Nan Rate": "0.2313",
+        "PSI": "0.1901",
+        "Variables": "v505",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0059",
+        "Nan Count": "18417",
+        "Nan Rate": "0.2506",
+        "PSI": "0.4184",
+        "Variables": "v506",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0039",
+        "Nan Count": "59947",
+        "Nan Rate": "0.8156",
+        "PSI": "0.1079",
+        "Variables": "v507",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0005",
+        "Nan Count": "69496",
+        "Nan Rate": "0.9455",
+        "PSI": "0.0301",
+        "Variables": "v508",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0148",
+        "Nan Count": "39463",
+        "Nan Rate": "0.5369",
+        "PSI": "0.1261",
+        "Variables": "v509",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0129",
+        "Nan Count": "16997",
+        "Nan Rate": "0.2313",
+        "PSI": "0.2111",
+        "Variables": "v510",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0031",
+        "Nan Count": "44071",
+        "Nan Rate": "0.5996",
+        "PSI": "0.1681",
+        "Variables": "v511",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.016",
+        "Nan Count": "26270",
+        "Nan Rate": "0.3574",
+        "PSI": "0.3501",
+        "Variables": "v512",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0022",
+        "Nan Count": "61838",
+        "Nan Rate": "0.8413",
+        "PSI": "0.0937",
+        "Variables": "v513",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0149",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5643",
+        "Variables": "v514",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0029",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.1271",
+        "Variables": "v515",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0006",
+        "Nan Count": "61824",
+        "Nan Rate": "0.8411",
+        "PSI": "0.1933",
+        "Variables": "v516",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0023",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.1064",
+        "Variables": "v517",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0047",
+        "Nan Count": "51173",
+        "Nan Rate": "0.6962",
+        "PSI": "0.176",
+        "Variables": "v518",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0276",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5654",
+        "Variables": "v519",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0028",
+        "Nan Count": "65811",
+        "Nan Rate": "0.8954",
+        "PSI": "0.1839",
+        "Variables": "v520",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.006",
+        "Nan Count": "13923",
+        "Nan Rate": "0.1894",
+        "PSI": "0.4611",
+        "Variables": "v521",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0076",
+        "Nan Count": "16997",
+        "Nan Rate": "0.2313",
+        "PSI": "0.4391",
+        "Variables": "v522",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0086",
+        "Nan Count": "18438",
+        "Nan Rate": "0.2509",
+        "PSI": "0.4262",
+        "Variables": "v523",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0114",
+        "Nan Count": "13923",
+        "Nan Rate": "0.1894",
+        "PSI": "0.4607",
+        "Variables": "v524",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0042",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.2299",
+        "Variables": "v525",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0038",
+        "Nan Count": "57228",
+        "Nan Rate": "0.7786",
+        "PSI": "0.1237",
+        "Variables": "v526",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0081",
+        "Nan Count": "60021",
+        "Nan Rate": "0.8166",
+        "PSI": "0.0992",
+        "Variables": "v527",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0023",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.1115",
+        "Variables": "v528",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0037",
+        "Nan Count": "44071",
+        "Nan Rate": "0.5996",
+        "PSI": "0.2374",
+        "Variables": "v529",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0065",
+        "Nan Count": "39463",
+        "Nan Rate": "0.5369",
+        "PSI": "0.1139",
+        "Variables": "v530",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0032",
+        "Nan Count": "68488",
+        "Nan Rate": "0.9318",
+        "PSI": "0.0348",
+        "Variables": "v531",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0045",
+        "Nan Count": "56941",
+        "Nan Rate": "0.7747",
+        "PSI": "0.1394",
+        "Variables": "v532",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0093",
+        "Nan Count": "20511",
+        "Nan Rate": "0.2791",
+        "PSI": "0.4127",
+        "Variables": "v533",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0031",
+        "Nan Count": "65811",
+        "Nan Rate": "0.8954",
+        "PSI": "0.0566",
+        "Variables": "v534",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0116",
+        "Nan Count": "59558",
+        "Nan Rate": "0.8103",
+        "PSI": "0.105",
+        "Variables": "v535",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0024",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.1795",
+        "Variables": "v536",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0055",
+        "Nan Count": "63640",
+        "Nan Rate": "0.8659",
+        "PSI": "0.075",
+        "Variables": "v537",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0052",
+        "Nan Count": "65586",
+        "Nan Rate": "0.8923",
+        "PSI": "0.0581",
+        "Variables": "v538",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0321",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5649",
+        "Variables": "v539",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0075",
+        "Nan Count": "14168",
+        "Nan Rate": "0.1928",
+        "PSI": "0.2445",
+        "Variables": "v540",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0241",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.4418",
+        "Variables": "v541",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0078",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5649",
+        "Variables": "v542",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0488",
+        "Nan Count": "13724",
+        "Nan Rate": "0.1867",
+        "PSI": "0.4454",
+        "Variables": "v543",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0036",
+        "Nan Count": "32710",
+        "Nan Rate": "0.445",
+        "PSI": "0.3319",
+        "Variables": "v544",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0056",
+        "Nan Count": "20511",
+        "Nan Rate": "0.2791",
+        "PSI": "0.4127",
+        "Variables": "v545",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0291",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5647",
+        "Variables": "v546",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0114",
+        "Nan Count": "24464",
+        "Nan Rate": "0.3328",
+        "PSI": "0.3673",
+        "Variables": "v547",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0091",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5649",
+        "Variables": "v548",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0009",
+        "Nan Count": "44071",
+        "Nan Rate": "0.5996",
+        "PSI": "0.2144",
+        "Variables": "v549",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0079",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.228",
+        "Variables": "v550",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0064",
+        "Nan Count": "63640",
+        "Nan Rate": "0.8659",
+        "PSI": "0.0749",
+        "Variables": "v551",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0006",
+        "Nan Count": "68164",
+        "Nan Rate": "0.9274",
+        "PSI": "0.0455",
+        "Variables": "v552",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0168",
+        "Nan Count": "59558",
+        "Nan Rate": "0.8103",
+        "PSI": "0.1047",
+        "Variables": "v553",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0023",
+        "Nan Count": "59947",
+        "Nan Rate": "0.8156",
+        "PSI": "0.0997",
+        "Variables": "v554",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0378",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.4417",
+        "Variables": "v555",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0135",
+        "Nan Count": "22458",
+        "Nan Rate": "0.3056",
+        "PSI": "0.383",
+        "Variables": "v556",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0035",
+        "Nan Count": "63595",
+        "Nan Rate": "0.8652",
+        "PSI": "0.0776",
+        "Variables": "v557",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0054",
+        "Nan Count": "69496",
+        "Nan Rate": "0.9455",
+        "PSI": "0.0294",
+        "Variables": "v558",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0029",
+        "Nan Count": "56967",
+        "Nan Rate": "0.7751",
+        "PSI": "0.1391",
+        "Variables": "v559",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0593",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5649",
+        "Variables": "v560",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0445",
+        "Nan Count": "13680",
+        "Nan Rate": "0.1861",
+        "PSI": "0.4475",
+        "Variables": "v561",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0033",
+        "Nan Count": "51173",
+        "Nan Rate": "0.6962",
+        "PSI": "0.2241",
+        "Variables": "v562",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.005",
+        "Nan Count": "61842",
+        "Nan Rate": "0.8414",
+        "PSI": "0.2055",
+        "Variables": "v563",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0062",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.1675",
+        "Variables": "v564",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0045",
+        "Nan Count": "55930",
+        "Nan Rate": "0.761",
+        "PSI": "0.1445",
+        "Variables": "v565",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0022",
+        "Nan Count": "32710",
+        "Nan Rate": "0.445",
+        "PSI": "0.3319",
+        "Variables": "v566",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0051",
+        "Nan Count": "59136",
+        "Nan Rate": "0.8046",
+        "PSI": "0.1118",
+        "Variables": "v567",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0468",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5651",
+        "Variables": "v568",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0422",
+        "Nan Count": "1578",
+        "Nan Rate": "0.0215",
+        "PSI": "0.5817",
+        "Variables": "v569",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0395",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5651",
+        "Variables": "v570",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0041",
+        "Nan Count": "27504",
+        "Nan Rate": "0.3742",
+        "PSI": "0.3507",
+        "Variables": "v571",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0037",
+        "Nan Count": "70631",
+        "Nan Rate": "0.961",
+        "PSI": "0.0171",
+        "Variables": "v572",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0141",
+        "Nan Count": "13680",
+        "Nan Rate": "0.1861",
+        "PSI": "0.4475",
+        "Variables": "v573",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.005",
+        "Nan Count": "56665",
+        "Nan Rate": "0.771",
+        "PSI": "0.1299",
+        "Variables": "v574",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.009",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5644",
+        "Variables": "v575",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0167",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.2354",
+        "Variables": "v576",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0301",
+        "Nan Count": "64900",
+        "Nan Rate": "0.883",
+        "PSI": "0.059",
+        "Variables": "v577",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0045",
+        "Nan Count": "59947",
+        "Nan Rate": "0.8156",
+        "PSI": "0.0993",
+        "Variables": "v578",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0131",
+        "Nan Count": "66590",
+        "Nan Rate": "0.906",
+        "PSI": "0.0534",
+        "Variables": "v579",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0014",
+        "Nan Count": "69496",
+        "Nan Rate": "0.9455",
+        "PSI": "0.03",
+        "Variables": "v580",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0028",
+        "Nan Count": "71528",
+        "Nan Rate": "0.9732",
+        "PSI": "0.1317",
+        "Variables": "v581",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "-0.0685",
+        "Nan Count": "14168",
+        "Nan Rate": "0.1928",
+        "PSI": "0.2402",
+        "Variables": "v582",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.039",
+        "Nan Count": "3280",
+        "Nan Rate": "0.0446",
+        "PSI": "0.564",
+        "Variables": "v583",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0049",
+        "Nan Count": "61824",
+        "Nan Rate": "0.8411",
+        "PSI": "0.1773",
+        "Variables": "v584",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.016",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5641",
+        "Variables": "v585",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0443",
+        "Nan Count": "13724",
+        "Nan Rate": "0.1867",
+        "PSI": "0.4452",
+        "Variables": "v586",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0056",
+        "Nan Count": "69179",
+        "Nan Rate": "0.9412",
+        "PSI": "0.0347",
+        "Variables": "v587",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0204",
+        "Nan Count": "13680",
+        "Nan Rate": "0.1861",
+        "PSI": "0.4475",
+        "Variables": "v588",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0222",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.4418",
+        "Variables": "v589",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.007",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.1018",
+        "Variables": "v590",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0081",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5653",
+        "Variables": "v591",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.003",
+        "Nan Count": "65586",
+        "Nan Rate": "0.8923",
+        "PSI": "0.0584",
+        "Variables": "v592",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0044",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.1435",
+        "Variables": "v593",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0104",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.565",
+        "Variables": "v594",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0097",
+        "Nan Count": "16997",
+        "Nan Rate": "0.2313",
+        "PSI": "0.1991",
+        "Variables": "v595",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.044",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5652",
+        "Variables": "v596",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0009",
+        "Nan Count": "68165",
+        "Nan Rate": "0.9274",
+        "PSI": "0.0453",
+        "Variables": "v597",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0017",
+        "Nan Count": "67185",
+        "Nan Rate": "0.9141",
+        "PSI": "0.0484",
+        "Variables": "v598",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0405",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5646",
+        "Variables": "v599",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0007",
+        "Nan Count": "67185",
+        "Nan Rate": "0.9141",
+        "PSI": "0.0483",
+        "Variables": "v600",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0038",
+        "Nan Count": "44071",
+        "Nan Rate": "0.5996",
+        "PSI": "0.2372",
+        "Variables": "v601",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0472",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5651",
+        "Variables": "v602",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.005",
+        "Nan Count": "33467",
+        "Nan Rate": "0.4553",
+        "PSI": "0.3093",
+        "Variables": "v603",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0055",
+        "Nan Count": "69179",
+        "Nan Rate": "0.9412",
+        "PSI": "0.0348",
+        "Variables": "v604",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0049",
+        "Nan Count": "37962",
+        "Nan Rate": "0.5165",
+        "PSI": "0.2714",
+        "Variables": "v605",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.012",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5634",
+        "Variables": "v606",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0261",
+        "Nan Count": "22744",
+        "Nan Rate": "0.3094",
+        "PSI": "0.3806",
+        "Variables": "v607",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0135",
+        "Nan Count": "37890",
+        "Nan Rate": "0.5155",
+        "PSI": "0.2727",
+        "Variables": "v608",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0004",
+        "Nan Count": "71528",
+        "Nan Rate": "0.9732",
+        "PSI": "0.0141",
+        "Variables": "v609",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0006",
+        "Nan Count": "52491",
+        "Nan Rate": "0.7142",
+        "PSI": "0.2015",
+        "Variables": "v610",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0243",
+        "Nan Count": "13680",
+        "Nan Rate": "0.1861",
+        "PSI": "0.4468",
+        "Variables": "v611",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0002",
+        "Nan Count": "68164",
+        "Nan Rate": "0.9274",
+        "PSI": "0.0452",
+        "Variables": "v612",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0128",
+        "Nan Count": "13724",
+        "Nan Rate": "0.1867",
+        "PSI": "0.4456",
+        "Variables": "v613",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0116",
+        "Nan Count": "66590",
+        "Nan Rate": "0.906",
+        "PSI": "0.0533",
+        "Variables": "v614",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0033",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5649",
+        "Variables": "v615",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.011",
+        "Nan Count": "62990",
+        "Nan Rate": "0.857",
+        "PSI": "0.0749",
+        "Variables": "v616",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0188",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.1909",
+        "Variables": "v617",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0013",
+        "Nan Count": "56940",
+        "Nan Rate": "0.7747",
+        "PSI": "0.1396",
+        "Variables": "v618",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0453",
+        "Nan Count": "13724",
+        "Nan Rate": "0.1867",
+        "PSI": "0.4449",
+        "Variables": "v619",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0286",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5654",
+        "Variables": "v620",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0035",
+        "Nan Count": "67581",
+        "Nan Rate": "0.9195",
+        "PSI": "0.0441",
+        "Variables": "v621",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.009",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5649",
+        "Variables": "v622",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0075",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.565",
+        "Variables": "v623",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0179",
+        "Nan Count": "19791",
+        "Nan Rate": "0.2693",
+        "PSI": "0.4088",
+        "Variables": "v624",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0162",
+        "Nan Count": "14900",
+        "Nan Rate": "0.2027",
+        "PSI": "0.4501",
+        "Variables": "v625",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0033",
+        "Nan Count": "59947",
+        "Nan Rate": "0.8156",
+        "PSI": "0.1535",
+        "Variables": "v626",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0009",
+        "Nan Count": "68164",
+        "Nan Rate": "0.9274",
+        "PSI": "0.0448",
+        "Variables": "v627",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0026",
+        "Nan Count": "52566",
+        "Nan Rate": "0.7152",
+        "PSI": "0.1687",
+        "Variables": "v628",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0072",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5648",
+        "Variables": "v629",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0008",
+        "Nan Count": "64765",
+        "Nan Rate": "0.8812",
+        "PSI": "0.0677",
+        "Variables": "v630",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0081",
+        "Nan Count": "62990",
+        "Nan Rate": "0.857",
+        "PSI": "0.241",
+        "Variables": "v631",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0096",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.2333",
+        "Variables": "v632",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0045",
+        "Nan Count": "59558",
+        "Nan Rate": "0.8103",
+        "PSI": "0.2406",
+        "Variables": "v633",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0006",
+        "Nan Count": "59790",
+        "Nan Rate": "0.8135",
+        "PSI": "0.1128",
+        "Variables": "v634",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0087",
+        "Nan Count": "14900",
+        "Nan Rate": "0.2027",
+        "PSI": "0.4503",
+        "Variables": "v635",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0116",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5643",
+        "Variables": "v636",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0309",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5648",
+        "Variables": "v637",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0091",
+        "Nan Count": "23103",
+        "Nan Rate": "0.3143",
+        "PSI": "0.385",
+        "Variables": "v638",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0104",
+        "Nan Count": "20511",
+        "Nan Rate": "0.2791",
+        "PSI": "0.2024",
+        "Variables": "v639",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0036",
+        "Nan Count": "55930",
+        "Nan Rate": "0.761",
+        "PSI": "0.145",
+        "Variables": "v640",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0049",
+        "Nan Count": "61824",
+        "Nan Rate": "0.8411",
+        "PSI": "0.0935",
+        "Variables": "v641",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0004",
+        "Nan Count": "52566",
+        "Nan Rate": "0.7152",
+        "PSI": "0.1681",
+        "Variables": "v642",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0008",
+        "Nan Count": "52486",
+        "Nan Rate": "0.7141",
+        "PSI": "0.1687",
+        "Variables": "v643",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0044",
+        "Nan Count": "59947",
+        "Nan Rate": "0.8156",
+        "PSI": "0.0987",
+        "Variables": "v644",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0024",
+        "Nan Count": "62683",
+        "Nan Rate": "0.8528",
+        "PSI": "0.085",
+        "Variables": "v645",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0063",
+        "Nan Count": "53884",
+        "Nan Rate": "0.7331",
+        "PSI": "0.1012",
+        "Variables": "v646",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0033",
+        "Nan Count": "71528",
+        "Nan Rate": "0.9732",
+        "PSI": "0.014",
+        "Variables": "v647",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0114",
+        "Nan Count": "13923",
+        "Nan Rate": "0.1894",
+        "PSI": "0.2373",
+        "Variables": "v648",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0199",
+        "Nan Count": "28313",
+        "Nan Rate": "0.3852",
+        "PSI": "0.3485",
+        "Variables": "v649",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0211",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5652",
+        "Variables": "v650",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0046",
+        "Nan Count": "25677",
+        "Nan Rate": "0.3493",
+        "PSI": "0.3724",
+        "Variables": "v651",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0024",
+        "Nan Count": "59947",
+        "Nan Rate": "0.8156",
+        "PSI": "0.0993",
+        "Variables": "v652",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0012",
+        "Nan Count": "39463",
+        "Nan Rate": "0.5369",
+        "PSI": "0.2764",
+        "Variables": "v653",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0009",
+        "Nan Count": "59136",
+        "Nan Rate": "0.8046",
+        "PSI": "0.112",
+        "Variables": "v654",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0026",
+        "Nan Count": "25593",
+        "Nan Rate": "0.3482",
+        "PSI": "0.3893",
+        "Variables": "v655",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0506",
+        "Nan Count": "13680",
+        "Nan Rate": "0.1861",
+        "PSI": "0.4471",
+        "Variables": "v656",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0024",
+        "Nan Count": "66602",
+        "Nan Rate": "0.9061",
+        "PSI": "0.0588",
+        "Variables": "v657",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0304",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5647",
+        "Variables": "v658",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0078",
+        "Nan Count": "18438",
+        "Nan Rate": "0.2509",
+        "PSI": "0.4262",
+        "Variables": "v659",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0103",
+        "Nan Count": "62990",
+        "Nan Rate": "0.857",
+        "PSI": "0.075",
+        "Variables": "v660",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0022",
+        "Nan Count": "69179",
+        "Nan Rate": "0.9412",
+        "PSI": "0.0344",
+        "Variables": "v661",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.004",
+        "Nan Count": "61824",
+        "Nan Rate": "0.8411",
+        "PSI": "0.1919",
+        "Variables": "v662",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0052",
+        "Nan Count": "33467",
+        "Nan Rate": "0.4553",
+        "PSI": "0.1035",
+        "Variables": "v663",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0034",
+        "Nan Count": "33467",
+        "Nan Rate": "0.4553",
+        "PSI": "0.3093",
+        "Variables": "v664",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0095",
+        "Nan Count": "31922",
+        "Nan Rate": "0.4343",
+        "PSI": "0.3306",
+        "Variables": "v665",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.006",
+        "Nan Count": "19791",
+        "Nan Rate": "0.2693",
+        "PSI": "0.4101",
+        "Variables": "v666",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0101",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5651",
+        "Variables": "v667",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0009",
+        "Nan Count": "67975",
+        "Nan Rate": "0.9248",
+        "PSI": "0.0416",
+        "Variables": "v668",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0222",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.2144",
+        "Variables": "v669",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0153",
+        "Nan Count": "3175",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5645",
+        "Variables": "v670",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0055",
+        "Nan Count": "59817",
+        "Nan Rate": "0.8138",
+        "PSI": "0.112",
+        "Variables": "v671",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0008",
+        "Nan Count": "65586",
+        "Nan Rate": "0.8923",
+        "PSI": "0.0583",
+        "Variables": "v672",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0325",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5645",
+        "Variables": "v673",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0269",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5643",
+        "Variables": "v674",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0423",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5649",
+        "Variables": "v675",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0021",
+        "Nan Count": "66590",
+        "Nan Rate": "0.906",
+        "PSI": "0.0535",
+        "Variables": "v676",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0125",
+        "Nan Count": "27824",
+        "Nan Rate": "0.3786",
+        "PSI": "0.3452",
+        "Variables": "v677",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0081",
+        "Nan Count": "39463",
+        "Nan Rate": "0.5369",
+        "PSI": "0.1989",
+        "Variables": "v678",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0222",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.4418",
+        "Variables": "v679",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0025",
+        "Nan Count": "64718",
+        "Nan Rate": "0.8805",
+        "PSI": "0.0723",
+        "Variables": "v680",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0052",
+        "Nan Count": "25677",
+        "Nan Rate": "0.3493",
+        "PSI": "0.3717",
+        "Variables": "v681",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0064",
+        "Nan Count": "70631",
+        "Nan Rate": "0.961",
+        "PSI": "0.0213",
+        "Variables": "v682",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0126",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5646",
+        "Variables": "v683",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0109",
+        "Nan Count": "66593",
+        "Nan Rate": "0.906",
+        "PSI": "0.0533",
+        "Variables": "v684",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0002",
+        "Nan Count": "56940",
+        "Nan Rate": "0.7747",
+        "PSI": "0.1399",
+        "Variables": "v685",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0204",
+        "Nan Count": "13680",
+        "Nan Rate": "0.1861",
+        "PSI": "0.4475",
+        "Variables": "v686",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0107",
+        "Nan Count": "16997",
+        "Nan Rate": "0.2313",
+        "PSI": "0.2303",
+        "Variables": "v687",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0112",
+        "Nan Count": "20263",
+        "Nan Rate": "0.2757",
+        "PSI": "0.406",
+        "Variables": "v688",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.013",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5646",
+        "Variables": "v689",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0079",
+        "Nan Count": "25677",
+        "Nan Rate": "0.3493",
+        "PSI": "0.3719",
+        "Variables": "v690",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0223",
+        "Nan Count": "16997",
+        "Nan Rate": "0.2313",
+        "PSI": "0.1607",
+        "Variables": "v691",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0242",
+        "Nan Count": "66590",
+        "Nan Rate": "0.906",
+        "PSI": "0.1724",
+        "Variables": "v692",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0022",
+        "Nan Count": "20511",
+        "Nan Rate": "0.2791",
+        "PSI": "0.4125",
+        "Variables": "v693",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0",
+        "Nan Count": "61842",
+        "Nan Rate": "0.8414",
+        "PSI": "0.0982",
+        "Variables": "v694",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0259",
+        "Nan Count": "13680",
+        "Nan Rate": "0.1861",
+        "PSI": "0.4471",
+        "Variables": "v695",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0032",
+        "Nan Count": "63640",
+        "Nan Rate": "0.8659",
+        "PSI": "0.0745",
+        "Variables": "v696",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0122",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.1295",
+        "Variables": "v697",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0694",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5649",
+        "Variables": "v698",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0131",
+        "Nan Count": "59558",
+        "Nan Rate": "0.8103",
+        "PSI": "0.1046",
+        "Variables": "v699",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0011",
+        "Nan Count": "56940",
+        "Nan Rate": "0.7747",
+        "PSI": "0.1398",
+        "Variables": "v700",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0023",
+        "Nan Count": "20511",
+        "Nan Rate": "0.2791",
+        "PSI": "0.4124",
+        "Variables": "v701",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0032",
+        "Nan Count": "24365",
+        "Nan Rate": "0.3315",
+        "PSI": "0.3821",
+        "Variables": "v702",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0077",
+        "Nan Count": "65552",
+        "Nan Rate": "0.8919",
+        "PSI": "0.0535",
+        "Variables": "v703",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0454",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5642",
+        "Variables": "v704",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0055",
+        "Nan Count": "69496",
+        "Nan Rate": "0.9455",
+        "PSI": "0.0301",
+        "Variables": "v705",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0006",
+        "Nan Count": "63640",
+        "Nan Rate": "0.8659",
+        "PSI": "0.075",
+        "Variables": "v706",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0026",
+        "Nan Count": "65586",
+        "Nan Rate": "0.8923",
+        "PSI": "0.0576",
+        "Variables": "v707",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0064",
+        "Nan Count": "66590",
+        "Nan Rate": "0.906",
+        "PSI": "0.0534",
+        "Variables": "v708",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0066",
+        "Nan Count": "67185",
+        "Nan Rate": "0.9141",
+        "PSI": "0.1692",
+        "Variables": "v709",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0007",
+        "Nan Count": "71528",
+        "Nan Rate": "0.9732",
+        "PSI": "0.0154",
+        "Variables": "v710",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.006",
+        "Nan Count": "25677",
+        "Nan Rate": "0.3493",
+        "PSI": "0.3715",
+        "Variables": "v711",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0322",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5651",
+        "Variables": "v712",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0276",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5652",
+        "Variables": "v713",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0042",
+        "Nan Count": "65811",
+        "Nan Rate": "0.8954",
+        "PSI": "0.0568",
+        "Variables": "v714",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0029",
+        "Nan Count": "59790",
+        "Nan Rate": "0.8135",
+        "PSI": "0.1128",
+        "Variables": "v715",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0086",
+        "Nan Count": "18438",
+        "Nan Rate": "0.2509",
+        "PSI": "0.4261",
+        "Variables": "v716",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0198",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.4412",
+        "Variables": "v717",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0002",
+        "Nan Count": "72710",
+        "Nan Rate": "0.9893",
+        "PSI": "0.0012",
+        "Variables": "v718",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0087",
+        "Nan Count": "18417",
+        "Nan Rate": "0.2506",
+        "PSI": "0.4186",
+        "Variables": "v719",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0181",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5653",
+        "Variables": "v720",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0086",
+        "Nan Count": "33467",
+        "Nan Rate": "0.4553",
+        "PSI": "0.3089",
+        "Variables": "v721",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0387",
+        "Nan Count": "13680",
+        "Nan Rate": "0.1861",
+        "PSI": "0.4468",
+        "Variables": "v722",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0254",
+        "Nan Count": "13680",
+        "Nan Rate": "0.1861",
+        "PSI": "0.4471",
+        "Variables": "v723",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0871",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5645",
+        "Variables": "v724",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0035",
+        "Nan Count": "67185",
+        "Nan Rate": "0.9141",
+        "PSI": "0.0484",
+        "Variables": "v725",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0036",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.1239",
+        "Variables": "v726",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0019",
+        "Nan Count": "63435",
+        "Nan Rate": "0.8631",
+        "PSI": "0.0779",
+        "Variables": "v727",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0144",
+        "Nan Count": "16997",
+        "Nan Rate": "0.2313",
+        "PSI": "0.1635",
+        "Variables": "v728",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0",
+        "Nan Count": "68164",
+        "Nan Rate": "0.9274",
+        "PSI": "0.1474",
+        "Variables": "v729",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0252",
+        "Nan Count": "13724",
+        "Nan Rate": "0.1867",
+        "PSI": "0.4457",
+        "Variables": "v730",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.012",
+        "Nan Count": "33920",
+        "Nan Rate": "0.4615",
+        "PSI": "0.3138",
+        "Variables": "v731",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0071",
+        "Nan Count": "69496",
+        "Nan Rate": "0.9455",
+        "PSI": "0.188",
+        "Variables": "v732",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0019",
+        "Nan Count": "52494",
+        "Nan Rate": "0.7142",
+        "PSI": "0.1787",
+        "Variables": "v733",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0059",
+        "Nan Count": "33467",
+        "Nan Rate": "0.4553",
+        "PSI": "0.3096",
+        "Variables": "v734",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0021",
+        "Nan Count": "68488",
+        "Nan Rate": "0.9318",
+        "PSI": "0.0339",
+        "Variables": "v735",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0019",
+        "Nan Count": "71528",
+        "Nan Rate": "0.9732",
+        "PSI": "0.0157",
+        "Variables": "v736",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0334",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5649",
+        "Variables": "v737",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0123",
+        "Nan Count": "59947",
+        "Nan Rate": "0.8156",
+        "PSI": "0.1734",
+        "Variables": "v738",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0585",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.565",
+        "Variables": "v739",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0",
+        "Nan Count": "61842",
+        "Nan Rate": "0.8414",
+        "PSI": "0.0979",
+        "Variables": "v740",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0061",
+        "Nan Count": "63651",
+        "Nan Rate": "0.866",
+        "PSI": "0.0744",
+        "Variables": "v741",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0143",
+        "Nan Count": "16997",
+        "Nan Rate": "0.2313",
+        "PSI": "0.1285",
+        "Variables": "v742",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0085",
+        "Nan Count": "20511",
+        "Nan Rate": "0.2791",
+        "PSI": "0.4128",
+        "Variables": "v743",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0165",
+        "Nan Count": "32907",
+        "Nan Rate": "0.4477",
+        "PSI": "0.3011",
+        "Variables": "v744",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0046",
+        "Nan Count": "20511",
+        "Nan Rate": "0.2791",
+        "PSI": "0.4127",
+        "Variables": "v745",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0124",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5641",
+        "Variables": "v746",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0101",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.1054",
+        "Variables": "v747",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0059",
+        "Nan Count": "68503",
+        "Nan Rate": "0.932",
+        "PSI": "0.0347",
+        "Variables": "v748",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0009",
+        "Nan Count": "56940",
+        "Nan Rate": "0.7747",
+        "PSI": "0.1396",
+        "Variables": "v749",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0305",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5649",
+        "Variables": "v750",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0198",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.565",
+        "Variables": "v751",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0331",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5652",
+        "Variables": "v752",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0028",
+        "Nan Count": "64008",
+        "Nan Rate": "0.8709",
+        "PSI": "0.0718",
+        "Variables": "v753",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0163",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.4417",
+        "Variables": "v754",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0097",
+        "Nan Count": "13923",
+        "Nan Rate": "0.1894",
+        "PSI": "0.4593",
+        "Variables": "v755",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0182",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5649",
+        "Variables": "v756",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0004",
+        "Nan Count": "63640",
+        "Nan Rate": "0.8659",
+        "PSI": "0.0751",
+        "Variables": "v757",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0221",
+        "Nan Count": "25499",
+        "Nan Rate": "0.3469",
+        "PSI": "0.2006",
+        "Variables": "v758",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0046",
+        "Nan Count": "70293",
+        "Nan Rate": "0.9564",
+        "PSI": "0.0208",
+        "Variables": "v759",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0001",
+        "Nan Count": "53684",
+        "Nan Rate": "0.7304",
+        "PSI": "0.1671",
+        "Variables": "v760",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0148",
+        "Nan Count": "13108",
+        "Nan Rate": "0.1783",
+        "PSI": "0.4648",
+        "Variables": "v761",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0027",
+        "Nan Count": "71528",
+        "Nan Rate": "0.9732",
+        "PSI": "0.0138",
+        "Variables": "v762",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0322",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5653",
+        "Variables": "v763",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0156",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5649",
+        "Variables": "v764",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0007",
+        "Nan Count": "51173",
+        "Nan Rate": "0.6962",
+        "PSI": "0.1759",
+        "Variables": "v765",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.003",
+        "Nan Count": "63640",
+        "Nan Rate": "0.8659",
+        "PSI": "0.0748",
+        "Variables": "v766",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0337",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.441",
+        "Variables": "v767",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0062",
+        "Nan Count": "64900",
+        "Nan Rate": "0.883",
+        "PSI": "0.0594",
+        "Variables": "v768",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0222",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.4418",
+        "Variables": "v769",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0172",
+        "Nan Count": "16997",
+        "Nan Rate": "0.2313",
+        "PSI": "0.2193",
+        "Variables": "v770",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0254",
+        "Nan Count": "22744",
+        "Nan Rate": "0.3094",
+        "PSI": "0.3805",
+        "Variables": "v771",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0122",
+        "Nan Count": "13108",
+        "Nan Rate": "0.1783",
+        "PSI": "0.4653",
+        "Variables": "v772",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0308",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.565",
+        "Variables": "v773",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0017",
+        "Nan Count": "25593",
+        "Nan Rate": "0.3482",
+        "PSI": "0.3893",
+        "Variables": "v774",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0",
+        "Nan Count": "67185",
+        "Nan Rate": "0.9141",
+        "PSI": "0.0486",
+        "Variables": "v775",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0016",
+        "Nan Count": "52566",
+        "Nan Rate": "0.7152",
+        "PSI": "0.1313",
+        "Variables": "v776",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0267",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5652",
+        "Variables": "v777",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0217",
+        "Nan Count": "13724",
+        "Nan Rate": "0.1867",
+        "PSI": "0.4459",
+        "Variables": "v778",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0084",
+        "Nan Count": "13108",
+        "Nan Rate": "0.1783",
+        "PSI": "0.4652",
+        "Variables": "v779",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0197",
+        "Nan Count": "60597",
+        "Nan Rate": "0.8244",
+        "PSI": "0.0962",
+        "Variables": "v780",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0028",
+        "Nan Count": "55930",
+        "Nan Rate": "0.761",
+        "PSI": "0.1658",
+        "Variables": "v781",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0004",
+        "Nan Count": "71528",
+        "Nan Rate": "0.9732",
+        "PSI": "0.1059",
+        "Variables": "v782",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0081",
+        "Nan Count": "32907",
+        "Nan Rate": "0.4477",
+        "PSI": "0.3015",
+        "Variables": "v783",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.011",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5644",
+        "Variables": "v784",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0009",
+        "Nan Count": "71528",
+        "Nan Rate": "0.9732",
+        "PSI": "0.1953",
+        "Variables": "v785",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0701",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5647",
+        "Variables": "v786",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0579",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5649",
+        "Variables": "v787",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0295",
+        "Nan Count": "13680",
+        "Nan Rate": "0.1861",
+        "PSI": "0.4474",
+        "Variables": "v788",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0011",
+        "Nan Count": "68164",
+        "Nan Rate": "0.9274",
+        "PSI": "0.0451",
+        "Variables": "v789",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0033",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.1757",
+        "Variables": "v790",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0289",
+        "Nan Count": "16997",
+        "Nan Rate": "0.2313",
+        "PSI": "0.2053",
+        "Variables": "v791",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0047",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5647",
+        "Variables": "v792",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0024",
+        "Nan Count": "52491",
+        "Nan Rate": "0.7142",
+        "PSI": "0.1795",
+        "Variables": "v793",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0029",
+        "Nan Count": "68359",
+        "Nan Rate": "0.9301",
+        "PSI": "0.0436",
+        "Variables": "v794",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0031",
+        "Nan Count": "67185",
+        "Nan Rate": "0.9141",
+        "PSI": "0.0484",
+        "Variables": "v795",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0293",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5653",
+        "Variables": "v796",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0064",
+        "Nan Count": "14900",
+        "Nan Rate": "0.2027",
+        "PSI": "0.4501",
+        "Variables": "v797",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0423",
+        "Nan Count": "13724",
+        "Nan Rate": "0.1867",
+        "PSI": "0.4459",
+        "Variables": "v798",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0031",
+        "Nan Count": "66872",
+        "Nan Rate": "0.9098",
+        "PSI": "0.0516",
+        "Variables": "v799",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.001",
+        "Nan Count": "63640",
+        "Nan Rate": "0.8659",
+        "PSI": "0.075",
+        "Variables": "v800",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0034",
+        "Nan Count": "68488",
+        "Nan Rate": "0.9318",
+        "PSI": "0.0348",
+        "Variables": "v801",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0222",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5652",
+        "Variables": "v802",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0",
+        "Nan Count": "61842",
+        "Nan Rate": "0.8414",
+        "PSI": "0.0981",
+        "Variables": "v803",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0007",
+        "Nan Count": "59136",
+        "Nan Rate": "0.8046",
+        "PSI": "0.112",
+        "Variables": "v804",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0029",
+        "Nan Count": "52491",
+        "Nan Rate": "0.7142",
+        "PSI": "0.1796",
+        "Variables": "v805",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0037",
+        "Nan Count": "65552",
+        "Nan Rate": "0.8919",
+        "PSI": "0.0551",
+        "Variables": "v806",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.002",
+        "Nan Count": "69496",
+        "Nan Rate": "0.9455",
+        "PSI": "0.0304",
+        "Variables": "v807",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.035",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5647",
+        "Variables": "v808",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0075",
+        "Nan Count": "66590",
+        "Nan Rate": "0.906",
+        "PSI": "0.0533",
+        "Variables": "v809",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0011",
+        "Nan Count": "51173",
+        "Nan Rate": "0.6962",
+        "PSI": "0.176",
+        "Variables": "v810",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0112",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5633",
+        "Variables": "v811",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0074",
+        "Nan Count": "59947",
+        "Nan Rate": "0.8156",
+        "PSI": "0.099",
+        "Variables": "v812",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0231",
+        "Nan Count": "15323",
+        "Nan Rate": "0.2085",
+        "PSI": "0.2418",
+        "Variables": "v813",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0011",
+        "Nan Count": "67185",
+        "Nan Rate": "0.9141",
+        "PSI": "0.0474",
+        "Variables": "v814",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0065",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5642",
+        "Variables": "v815",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0055",
+        "Nan Count": "69179",
+        "Nan Rate": "0.9412",
+        "PSI": "0.0343",
+        "Variables": "v816",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0016",
+        "Nan Count": "71641",
+        "Nan Rate": "0.9747",
+        "PSI": "0.0154",
+        "Variables": "v817",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0029",
+        "Nan Count": "62568",
+        "Nan Rate": "0.8513",
+        "PSI": "0.0873",
+        "Variables": "v818",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0005",
+        "Nan Count": "71528",
+        "Nan Rate": "0.9732",
+        "PSI": "0.0155",
+        "Variables": "v819",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0144",
+        "Nan Count": "64959",
+        "Nan Rate": "0.8838",
+        "PSI": "0.0599",
+        "Variables": "v820",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0199",
+        "Nan Count": "23277",
+        "Nan Rate": "0.3167",
+        "PSI": "0.3778",
+        "Variables": "v821",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0011",
+        "Nan Count": "65586",
+        "Nan Rate": "0.8923",
+        "PSI": "0.0577",
+        "Variables": "v822",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0031",
+        "Nan Count": "62217",
+        "Nan Rate": "0.8465",
+        "PSI": "0.0901",
+        "Variables": "v823",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0245",
+        "Nan Count": "26270",
+        "Nan Rate": "0.3574",
+        "PSI": "0.35",
+        "Variables": "v824",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0035",
+        "Nan Count": "65552",
+        "Nan Rate": "0.8919",
+        "PSI": "0.0551",
+        "Variables": "v825",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0067",
+        "Nan Count": "69179",
+        "Nan Rate": "0.9412",
+        "PSI": "0.0347",
+        "Variables": "v826",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0065",
+        "Nan Count": "16997",
+        "Nan Rate": "0.2313",
+        "PSI": "0.2204",
+        "Variables": "v827",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0034",
+        "Nan Count": "69496",
+        "Nan Rate": "0.9455",
+        "PSI": "0.0297",
+        "Variables": "v828",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0081",
+        "Nan Count": "25677",
+        "Nan Rate": "0.3493",
+        "PSI": "0.1139",
+        "Variables": "v829",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0166",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5641",
+        "Variables": "v830",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0082",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5652",
+        "Variables": "v831",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0089",
+        "Nan Count": "3175",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5648",
+        "Variables": "v832",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0873",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5651",
+        "Variables": "v833",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.013",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5654",
+        "Variables": "v834",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0101",
+        "Nan Count": "66590",
+        "Nan Rate": "0.906",
+        "PSI": "0.0533",
+        "Variables": "v835",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0373",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5652",
+        "Variables": "v836",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0048",
+        "Nan Count": "32434",
+        "Nan Rate": "0.4413",
+        "PSI": "0.3128",
+        "Variables": "v837",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0405",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5649",
+        "Variables": "v838",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0348",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.4418",
+        "Variables": "v839",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0059",
+        "Nan Count": "59947",
+        "Nan Rate": "0.8156",
+        "PSI": "0.0982",
+        "Variables": "v840",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0517",
+        "Nan Count": "13680",
+        "Nan Rate": "0.1861",
+        "PSI": "0.4473",
+        "Variables": "v841",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0048",
+        "Nan Count": "62568",
+        "Nan Rate": "0.8513",
+        "PSI": "0.087",
+        "Variables": "v842",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0008",
+        "Nan Count": "69496",
+        "Nan Rate": "0.9455",
+        "PSI": "0.0303",
+        "Variables": "v843",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0079",
+        "Nan Count": "65811",
+        "Nan Rate": "0.8954",
+        "PSI": "0.2016",
+        "Variables": "v844",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0108",
+        "Nan Count": "21109",
+        "Nan Rate": "0.2872",
+        "PSI": "0.3967",
+        "Variables": "v845",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.026",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5653",
+        "Variables": "v846",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0135",
+        "Nan Count": "21528",
+        "Nan Rate": "0.2929",
+        "PSI": "0.3921",
+        "Variables": "v847",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0053",
+        "Nan Count": "16050",
+        "Nan Rate": "0.2184",
+        "PSI": "0.4464",
+        "Variables": "v848",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0041",
+        "Nan Count": "63522",
+        "Nan Rate": "0.8642",
+        "PSI": "0.1588",
+        "Variables": "v849",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0054",
+        "Nan Count": "44071",
+        "Nan Rate": "0.5996",
+        "PSI": "0.211",
+        "Variables": "v850",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.003",
+        "Nan Count": "64722",
+        "Nan Rate": "0.8806",
+        "PSI": "0.0719",
+        "Variables": "v851",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0003",
+        "Nan Count": "55930",
+        "Nan Rate": "0.761",
+        "PSI": "0.1451",
+        "Variables": "v852",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0024",
+        "Nan Count": "56840",
+        "Nan Rate": "0.7733",
+        "PSI": "0.1279",
+        "Variables": "v853",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0126",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5646",
+        "Variables": "v854",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0126",
+        "Nan Count": "13923",
+        "Nan Rate": "0.1894",
+        "PSI": "0.4608",
+        "Variables": "v855",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0077",
+        "Nan Count": "59136",
+        "Nan Rate": "0.8046",
+        "PSI": "0.1115",
+        "Variables": "v856",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0011",
+        "Nan Count": "71528",
+        "Nan Rate": "0.9732",
+        "PSI": "0.0154",
+        "Variables": "v857",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0335",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.4418",
+        "Variables": "v858",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0022",
+        "Nan Count": "67148",
+        "Nan Rate": "0.9136",
+        "PSI": "0.0491",
+        "Variables": "v859",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0032",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5641",
+        "Variables": "v860",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0596",
+        "Nan Count": "15323",
+        "Nan Rate": "0.2085",
+        "PSI": "0.4302",
+        "Variables": "v861",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0039",
+        "Nan Count": "52491",
+        "Nan Rate": "0.7142",
+        "PSI": "0.1797",
+        "Variables": "v862",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0015",
+        "Nan Count": "68164",
+        "Nan Rate": "0.9274",
+        "PSI": "0.0452",
+        "Variables": "v863",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0222",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5649",
+        "Variables": "v864",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0031",
+        "Nan Count": "54660",
+        "Nan Rate": "0.7437",
+        "PSI": "0.1558",
+        "Variables": "v865",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0007",
+        "Nan Count": "61842",
+        "Nan Rate": "0.8414",
+        "PSI": "0.098",
+        "Variables": "v866",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0031",
+        "Nan Count": "63640",
+        "Nan Rate": "0.8659",
+        "PSI": "0.0739",
+        "Variables": "v867",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0042",
+        "Nan Count": "59790",
+        "Nan Rate": "0.8135",
+        "PSI": "0.1128",
+        "Variables": "v868",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0046",
+        "Nan Count": "25677",
+        "Nan Rate": "0.3493",
+        "PSI": "0.3716",
+        "Variables": "v869",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0009",
+        "Nan Count": "61824",
+        "Nan Rate": "0.8411",
+        "PSI": "0.0936",
+        "Variables": "v870",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0048",
+        "Nan Count": "65552",
+        "Nan Rate": "0.8919",
+        "PSI": "0.054",
+        "Variables": "v871",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0059",
+        "Nan Count": "51173",
+        "Nan Rate": "0.6962",
+        "PSI": "0.1764",
+        "Variables": "v872",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0056",
+        "Nan Count": "24365",
+        "Nan Rate": "0.3315",
+        "PSI": "0.3809",
+        "Variables": "v873",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0123",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5647",
+        "Variables": "v874",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0097",
+        "Nan Count": "59947",
+        "Nan Rate": "0.8156",
+        "PSI": "0.0987",
+        "Variables": "v875",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.005",
+        "Nan Count": "65552",
+        "Nan Rate": "0.8919",
+        "PSI": "0.055",
+        "Variables": "v876",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0136",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.222",
+        "Variables": "v877",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0354",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.4416",
+        "Variables": "v878",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0143",
+        "Nan Count": "33920",
+        "Nan Rate": "0.4615",
+        "PSI": "0.3146",
+        "Variables": "v879",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0223",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5653",
+        "Variables": "v880",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0509",
+        "Nan Count": "13724",
+        "Nan Rate": "0.1867",
+        "PSI": "0.4455",
+        "Variables": "v881",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0133",
+        "Nan Count": "21109",
+        "Nan Rate": "0.2872",
+        "PSI": "0.3965",
+        "Variables": "v882",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0556",
+        "Nan Count": "32968",
+        "Nan Rate": "0.4485",
+        "PSI": "0.3222",
+        "Variables": "v883",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0042",
+        "Nan Count": "59947",
+        "Nan Rate": "0.8156",
+        "PSI": "0.0993",
+        "Variables": "v884",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0028",
+        "Nan Count": "51173",
+        "Nan Rate": "0.6962",
+        "PSI": "0.176",
+        "Variables": "v885",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0071",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5644",
+        "Variables": "v886",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0039",
+        "Nan Count": "63640",
+        "Nan Rate": "0.8659",
+        "PSI": "0.0743",
+        "Variables": "v887",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0032",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.1187",
+        "Variables": "v888",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0016",
+        "Nan Count": "44071",
+        "Nan Rate": "0.5996",
+        "PSI": "0.2373",
+        "Variables": "v889",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0137",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.1944",
+        "Variables": "v890",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.004",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.2386",
+        "Variables": "v891",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.019",
+        "Nan Count": "14900",
+        "Nan Rate": "0.2027",
+        "PSI": "0.2276",
+        "Variables": "v892",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0103",
+        "Nan Count": "34555",
+        "Nan Rate": "0.4701",
+        "PSI": "0.3032",
+        "Variables": "v893",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0008",
+        "Nan Count": "67185",
+        "Nan Rate": "0.9141",
+        "PSI": "0.1598",
+        "Variables": "v894",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0134",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5644",
+        "Variables": "v895",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.01",
+        "Nan Count": "16997",
+        "Nan Rate": "0.2313",
+        "PSI": "0.1175",
+        "Variables": "v896",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.008",
+        "Nan Count": "59558",
+        "Nan Rate": "0.8103",
+        "PSI": "0.1049",
+        "Variables": "v897",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0153",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.564",
+        "Variables": "v898",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0021",
+        "Nan Count": "69510",
+        "Nan Rate": "0.9457",
+        "PSI": "0.0303",
+        "Variables": "v899",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0127",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5647",
+        "Variables": "v900",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0033",
+        "Nan Count": "56940",
+        "Nan Rate": "0.7747",
+        "PSI": "0.1392",
+        "Variables": "v901",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0117",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5651",
+        "Variables": "v902",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0447",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5651",
+        "Variables": "v903",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0126",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5653",
+        "Variables": "v904",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0126",
+        "Nan Count": "54008",
+        "Nan Rate": "0.7348",
+        "PSI": "0.1473",
+        "Variables": "v905",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0063",
+        "Nan Count": "70019",
+        "Nan Rate": "0.9526",
+        "PSI": "0.182",
+        "Variables": "v906",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0044",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.182",
+        "Variables": "v907",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0598",
+        "Nan Count": "15323",
+        "Nan Rate": "0.2085",
+        "PSI": "0.4304",
+        "Variables": "v908",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0066",
+        "Nan Count": "62990",
+        "Nan Rate": "0.857",
+        "PSI": "0.0753",
+        "Variables": "v909",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0034",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.1037",
+        "Variables": "v910",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0247",
+        "Nan Count": "24464",
+        "Nan Rate": "0.3328",
+        "PSI": "0.3661",
+        "Variables": "v911",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0105",
+        "Nan Count": "16997",
+        "Nan Rate": "0.2313",
+        "PSI": "0.2351",
+        "Variables": "v912",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0165",
+        "Nan Count": "44071",
+        "Nan Rate": "0.5996",
+        "PSI": "0.237",
+        "Variables": "v913",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.058",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5648",
+        "Variables": "v914",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0378",
+        "Nan Count": "13680",
+        "Nan Rate": "0.1861",
+        "PSI": "0.4465",
+        "Variables": "v915",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0108",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.1469",
+        "Variables": "v916",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0053",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.565",
+        "Variables": "v917",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0042",
+        "Nan Count": "52491",
+        "Nan Rate": "0.7142",
+        "PSI": "0.1794",
+        "Variables": "v918",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0256",
+        "Nan Count": "15323",
+        "Nan Rate": "0.2085",
+        "PSI": "0.431",
+        "Variables": "v919",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0039",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.1826",
+        "Variables": "v920",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0053",
+        "Nan Count": "52491",
+        "Nan Rate": "0.7142",
+        "PSI": "0.1789",
+        "Variables": "v921",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0028",
+        "Nan Count": "64718",
+        "Nan Rate": "0.8805",
+        "PSI": "0.0708",
+        "Variables": "v922",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0013",
+        "Nan Count": "65586",
+        "Nan Rate": "0.8923",
+        "PSI": "0.1896",
+        "Variables": "v923",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0034",
+        "Nan Count": "33467",
+        "Nan Rate": "0.4553",
+        "PSI": "0.3094",
+        "Variables": "v924",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0058",
+        "Nan Count": "63640",
+        "Nan Rate": "0.8659",
+        "PSI": "0.0751",
+        "Variables": "v925",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0038",
+        "Nan Count": "65552",
+        "Nan Rate": "0.8919",
+        "PSI": "0.0548",
+        "Variables": "v926",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0403",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5647",
+        "Variables": "v927",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0014",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5649",
+        "Variables": "v928",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0022",
+        "Nan Count": "67185",
+        "Nan Rate": "0.9141",
+        "PSI": "0.0485",
+        "Variables": "v929",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0108",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.1168",
+        "Variables": "v930",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0047",
+        "Nan Count": "70632",
+        "Nan Rate": "0.961",
+        "PSI": "0.0212",
+        "Variables": "v931",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0033",
+        "Nan Count": "66167",
+        "Nan Rate": "0.9002",
+        "PSI": "0.0522",
+        "Variables": "v932",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0082",
+        "Nan Count": "13923",
+        "Nan Rate": "0.1894",
+        "PSI": "0.4605",
+        "Variables": "v933",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0164",
+        "Nan Count": "39327",
+        "Nan Rate": "0.5351",
+        "PSI": "0.2665",
+        "Variables": "v934",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.009",
+        "Nan Count": "59558",
+        "Nan Rate": "0.8103",
+        "PSI": "0.1049",
+        "Variables": "v935",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0084",
+        "Nan Count": "20543",
+        "Nan Rate": "0.2795",
+        "PSI": "0.4121",
+        "Variables": "v936",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0029",
+        "Nan Count": "65831",
+        "Nan Rate": "0.8957",
+        "PSI": "0.0561",
+        "Variables": "v937",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0204",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5645",
+        "Variables": "v938",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0108",
+        "Nan Count": "18417",
+        "Nan Rate": "0.2506",
+        "PSI": "0.418",
+        "Variables": "v939",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.1192",
+        "Nan Count": "0",
+        "Nan Rate": "0.0",
+        "PSI": "0.6064",
+        "Variables": "v940",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0034",
+        "Nan Count": "32434",
+        "Nan Rate": "0.4413",
+        "PSI": "0.3126",
+        "Variables": "v941",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0048",
+        "Nan Count": "68164",
+        "Nan Rate": "0.9274",
+        "PSI": "0.0447",
+        "Variables": "v942",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0324",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5653",
+        "Variables": "v943",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0023",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.1804",
+        "Variables": "v944",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0105",
+        "Nan Count": "33467",
+        "Nan Rate": "0.4553",
+        "PSI": "0.309",
+        "Variables": "v945",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0314",
+        "Nan Count": "13724",
+        "Nan Rate": "0.1867",
+        "PSI": "0.4455",
+        "Variables": "v946",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0008",
+        "Nan Count": "67185",
+        "Nan Rate": "0.9141",
+        "PSI": "0.0482",
+        "Variables": "v947",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0026",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5653",
+        "Variables": "v948",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.005",
+        "Nan Count": "13923",
+        "Nan Rate": "0.1894",
+        "PSI": "0.4607",
+        "Variables": "v949",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0077",
+        "Nan Count": "20511",
+        "Nan Rate": "0.2791",
+        "PSI": "0.4125",
+        "Variables": "v950",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0058",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5651",
+        "Variables": "v951",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0162",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5647",
+        "Variables": "v952",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0054",
+        "Nan Count": "39118",
+        "Nan Rate": "0.5322",
+        "PSI": "0.2347",
+        "Variables": "v953",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0048",
+        "Nan Count": "61824",
+        "Nan Rate": "0.8411",
+        "PSI": "0.0934",
+        "Variables": "v954",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0051",
+        "Nan Count": "13923",
+        "Nan Rate": "0.1894",
+        "PSI": "0.4606",
+        "Variables": "v955",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0159",
+        "Nan Count": "59558",
+        "Nan Rate": "0.8103",
+        "PSI": "0.1449",
+        "Variables": "v956",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0505",
+        "Nan Count": "13680",
+        "Nan Rate": "0.1861",
+        "PSI": "0.4472",
+        "Variables": "v957",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0026",
+        "Nan Count": "63640",
+        "Nan Rate": "0.8659",
+        "PSI": "0.0747",
+        "Variables": "v958",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0053",
+        "Nan Count": "65552",
+        "Nan Rate": "0.8919",
+        "PSI": "0.0551",
+        "Variables": "v959",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.008",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.565",
+        "Variables": "v960",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0019",
+        "Nan Count": "67185",
+        "Nan Rate": "0.9141",
+        "PSI": "0.0485",
+        "Variables": "v961",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0034",
+        "Nan Count": "55930",
+        "Nan Rate": "0.761",
+        "PSI": "0.1972",
+        "Variables": "v962",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0042",
+        "Nan Count": "13923",
+        "Nan Rate": "0.1894",
+        "PSI": "0.4606",
+        "Variables": "v963",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0223",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.2018",
+        "Variables": "v964",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.003",
+        "Nan Count": "69179",
+        "Nan Rate": "0.9412",
+        "PSI": "0.0347",
+        "Variables": "v965",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0659",
+        "Nan Count": "13724",
+        "Nan Rate": "0.1867",
+        "PSI": "0.4459",
+        "Variables": "v966",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0297",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5638",
+        "Variables": "v967",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0168",
+        "Nan Count": "13108",
+        "Nan Rate": "0.1783",
+        "PSI": "0.2042",
+        "Variables": "v968",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.056",
+        "Nan Count": "589",
+        "Nan Rate": "0.008",
+        "PSI": "0.5939",
+        "Variables": "v969",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0067",
+        "Nan Count": "59947",
+        "Nan Rate": "0.8156",
+        "PSI": "0.1844",
+        "Variables": "v970",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0028",
+        "Nan Count": "61824",
+        "Nan Rate": "0.8411",
+        "PSI": "0.0936",
+        "Variables": "v971",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0025",
+        "Nan Count": "67185",
+        "Nan Rate": "0.9141",
+        "PSI": "0.0484",
+        "Variables": "v972",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0021",
+        "Nan Count": "63640",
+        "Nan Rate": "0.8659",
+        "PSI": "0.2107",
+        "Variables": "v973",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0033",
+        "Nan Count": "63640",
+        "Nan Rate": "0.8659",
+        "PSI": "0.1513",
+        "Variables": "v974",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0107",
+        "Nan Count": "66590",
+        "Nan Rate": "0.906",
+        "PSI": "0.0534",
+        "Variables": "v975",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0023",
+        "Nan Count": "61824",
+        "Nan Rate": "0.8411",
+        "PSI": "0.0935",
+        "Variables": "v976",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0069",
+        "Nan Count": "44071",
+        "Nan Rate": "0.5996",
+        "PSI": "0.2372",
+        "Variables": "v977",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0062",
+        "Nan Count": "44071",
+        "Nan Rate": "0.5996",
+        "PSI": "0.2371",
+        "Variables": "v978",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0081",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.565",
+        "Variables": "v979",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0027",
+        "Nan Count": "52566",
+        "Nan Rate": "0.7152",
+        "PSI": "0.1681",
+        "Variables": "v980",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0096",
+        "Nan Count": "16997",
+        "Nan Rate": "0.2313",
+        "PSI": "0.4392",
+        "Variables": "v981",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0009",
+        "Nan Count": "59136",
+        "Nan Rate": "0.8046",
+        "PSI": "0.1118",
+        "Variables": "v982",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0002",
+        "Nan Count": "56940",
+        "Nan Rate": "0.7747",
+        "PSI": "0.14",
+        "Variables": "v983",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0253",
+        "Nan Count": "3174",
+        "Nan Rate": "0.0432",
+        "PSI": "0.5643",
+        "Variables": "v984",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0021",
+        "Nan Count": "61824",
+        "Nan Rate": "0.8411",
+        "PSI": "0.0939",
+        "Variables": "v985",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0008",
+        "Nan Count": "67185",
+        "Nan Rate": "0.9141",
+        "PSI": "0.1523",
+        "Variables": "v986",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0019",
+        "Nan Count": "65586",
+        "Nan Rate": "0.8923",
+        "PSI": "0.0579",
+        "Variables": "v987",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0073",
+        "Nan Count": "69496",
+        "Nan Rate": "0.9455",
+        "PSI": "0.1611",
+        "Variables": "v988",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0117",
+        "Nan Count": "14095",
+        "Nan Rate": "0.1918",
+        "PSI": "0.1961",
+        "Variables": "v989",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0127",
+        "Nan Count": "13724",
+        "Nan Rate": "0.1867",
+        "PSI": "0.4462",
+        "Variables": "v990",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0028",
+        "Nan Count": "25593",
+        "Nan Rate": "0.3482",
+        "PSI": "0.3896",
+        "Variables": "v991",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0041",
+        "Nan Count": "65586",
+        "Nan Rate": "0.8923",
+        "PSI": "0.0582",
+        "Variables": "v992",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0031",
+        "Nan Count": "71528",
+        "Nan Rate": "0.9732",
+        "PSI": "0.014",
+        "Variables": "v993",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0004",
+        "Nan Count": "71528",
+        "Nan Rate": "0.9732",
+        "PSI": "0.1622",
+        "Variables": "v994",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0059",
+        "Nan Count": "52566",
+        "Nan Rate": "0.7152",
+        "PSI": "0.1673",
+        "Variables": "v995",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0458",
+        "Nan Count": "13680",
+        "Nan Rate": "0.1861",
+        "PSI": "0.447",
+        "Variables": "v996",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0076",
+        "Nan Count": "16997",
+        "Nan Rate": "0.2313",
+        "PSI": "0.2434",
+        "Variables": "v997",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "0.0007",
+        "Nan Count": "64718",
+        "Nan Rate": "0.8805",
+        "PSI": "0.0729",
+        "Variables": "v998",
+        "WOE_shape": "NAN"
+    },
+    {
+        "IV": "-0.1511",
+        "Nan Count": "16997",
+        "Nan Rate": "0.2313",
+        "PSI": "0.1868",
+        "Variables": "v999",
+        "WOE_shape": "NAN"
+    }
+]

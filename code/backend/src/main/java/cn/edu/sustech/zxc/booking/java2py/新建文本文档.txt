@@ -1,0 +1,17 @@
+1 java调用python（需要一个java类，传入一个本地文件地址，并且返回该结果）
+2 答辩准备：前端调整模型参数后，如何传递到模型？
+3 每个模型可调参数（用于设计数据库）
+4 数据库中data_preview(待定)
+5 数据库中selected_data(待定)
+6 日志（时间，操作员，操作，数据）
+
+页面3：模型配置
+文件上传
+
+
+
+nohup java -jar chengdu80.jar > consoleMsg.log 2>&1 &
+tail -f -n 100  consoleMsg.log
+lsof -i:9999
+netstat -ap | grep 9999
+kill -9 PID号

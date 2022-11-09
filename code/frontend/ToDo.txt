@@ -1,0 +1,22 @@
+总体
+    index.html中标题
+
+登录界面login.vue
+    4行标题
+    92行的背景图片
+
+主页导航栏header.vue
+    8行标题
+    12行是否启用消息中心
+    35行头像下拉框，是否允许头像下拉
+    51行头像
+
+用户中心user.vue
+    75行换头像
+
+首页LoanPreview.vue
+    布局参考文档：https://element.eleme.cn/#/zh-CN/component/layout
+
+图表charts.vue
+    参考文档（包装后的项目地址，但没啥用）：https://github.com/lin-xin/vue-schart
+    参考文档（原始文档）：https://lin-xin.gitee.io/example/schart/bar.html#js

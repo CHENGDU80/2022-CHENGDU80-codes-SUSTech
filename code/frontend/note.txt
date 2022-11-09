@@ -1,0 +1,2 @@
+修改sidebar.vue来控制导航栏
+权限管理：store/permiss.ts,现在的逻辑是：密码无论无何都正确，看用户名是否为admin判断是否为管理员

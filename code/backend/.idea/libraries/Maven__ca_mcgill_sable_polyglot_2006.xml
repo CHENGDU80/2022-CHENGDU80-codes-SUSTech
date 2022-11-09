@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: ca.mcgill.sable:polyglot:2006">
+    <CLASSES>
+      <root url="jar://D:/apache-maven-3.8.6/repository/ca/mcgill/sable/polyglot/2006/polyglot-2006.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/apache-maven-3.8.6/repository/ca/mcgill/sable/polyglot/2006/polyglot-2006-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/apache-maven-3.8.6/repository/ca/mcgill/sable/polyglot/2006/polyglot-2006-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
